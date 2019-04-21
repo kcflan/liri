@@ -58,7 +58,7 @@ Make it so liri.js can take in one of the following commands:
     In addition to logging the data to your terminal/bash window, output the data to a .txt file called liri-log.txt.
      
 ## Links to Liri's Video Proof of working order that Trevor told me I had to upload...
-'''
+
 [liri-node-run](https://bootcampkevin.github.io/liri/index.html#secondSection)
 
 [liri-concert-this](https://bootcampkevin.github.io/liri/index.html#thirdSection)
@@ -68,4 +68,3 @@ Make it so liri.js can take in one of the following commands:
 [liri-movie-this](https://bootcampkevin.github.io/liri/index.html#fifthSection)
 
 [liri-do-what-it-says](https://bootcampkevin.github.io/liri/index.html#lastSection)
-'''
