@@ -34,7 +34,7 @@ Make it so liri.js can take in one of the following commands:
         * The album that the song is from
 ```
     * if no song is provided then your program will default to
-    ```
+```
         * "Never Gonna Give You Up" by Sir Richard Astley
 ```
 ## movie-this [movie-name]
