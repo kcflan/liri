@@ -1,1622 +1,5 @@
 
-~~~~~~~~~~~~~~~~
- Song number 1 
-~~~~~~~~~~~~~~~~
- Artist(s): Rick Astley 
- Song's name: Never Gonna Give You Up 
- Preview link: https://open.spotify.com/track/7GhIk7Il098yCjg4BQjzvb 
- Album: Whenever You Need Somebody
-
-~~~~~~~~~~~~~~~~
- Song number 2 
-~~~~~~~~~~~~~~~~
- Artist(s): Rick Astley 
- Song's name: Never Gonna Give You Up 
- Preview link: https://open.spotify.com/track/0FutrWIUM5Mg3434asiwkp 
- Album: Platinum & Gold Collection
-
-~~~~~~~~~~~~~~~~
- Song number 3 
-~~~~~~~~~~~~~~~~
- Artist(s): Rick Astley 
- Song's name: Never Gonna Give You Up - 7" Mix 
- Preview link: https://open.spotify.com/track/4EZz8Byhbjk0tOKFJlCgPB 
- Album: 80s 100 Hits
-
-~~~~~~~~~~~~~~~~
- Song number 4 
-~~~~~~~~~~~~~~~~
- Artist(s): Rick Astley 
- Song's name: Never Gonna Give You Up 
- Preview link: https://open.spotify.com/track/20UthavN6ATWdaZGdeRPuM 
- Album: 80 Totally 80s Hits
-
-~~~~~~~~~~~~~~~~
- Song number 5 
-~~~~~~~~~~~~~~~~
- Artist(s): Rick Astley 
- Song's name: Never Gonna Give You Up 
- Preview link: https://open.spotify.com/track/1oQCO7vLjHfOiSW10Luahl 
- Album: Football Songs
-
-~~~~~~~~~~~~~~~~
- Song number 6 
-~~~~~~~~~~~~~~~~
- Artist(s): Rick Astley 
- Song's name: Never Gonna Give You Up 
- Preview link: https://open.spotify.com/track/2cDqdu57U9mr348Iz0dsX4 
- Album: Feel Good Friday
-
-~~~~~~~~~~~~~~~~
- Song number 7 
-~~~~~~~~~~~~~~~~
- Artist(s): Rick Astley 
- Song's name: Never Gonna Give You Up 
- Preview link: https://open.spotify.com/track/1aqwdQZ6xzuSgBFg3hRcNt 
- Album: The Greatest Hits
-
-~~~~~~~~~~~~~~~~
- Song number 8 
-~~~~~~~~~~~~~~~~
- Artist(s): Rick Astley 
- Song's name: Never Gonna Give You Up - 7" Mix 
- Preview link: https://open.spotify.com/track/4pD16dZyIby2EG9HUMXyQ0 
- Album: Happiness Forever
-
-~~~~~~~~~~~~~~~~
- Song number 9 
-~~~~~~~~~~~~~~~~
- Artist(s): Rick Astley 
- Song's name: Never Gonna Give You Up 
- Preview link: https://open.spotify.com/track/7erHKrGAhOfhHsg5pTAkjl 
- Album: 3 Originals
-
-~~~~~~~~~~~~~~~~
- Song number 10 
-~~~~~~~~~~~~~~~~
- Artist(s): Rick Astley 
- Song's name: Never Gonna Give You Up 
- Preview link: https://open.spotify.com/track/3kmq7N9MTjl3OCxJWszdqw 
- Album: Greatest Hits
-
-~~~~~~~~~~~~~~~~
- Song number 11 
-~~~~~~~~~~~~~~~~
- Artist(s): Rick Astley 
- Song's name: Never Gonna Give You Up 
- Preview link: https://open.spotify.com/track/4A2eDiBGdWZMiH1uWd0p1Y 
- Album: Românticas Anos 80
-
-~~~~~~~~~~~~~~~~
- Song number 12 
-~~~~~~~~~~~~~~~~
- Artist(s): ERock 
- Song's name: Never Gonna Give You Up By Rick Astley Meets Metal 
- Preview link: https://open.spotify.com/track/06hxM9xim1eZ37uQQTr8zV 
- Album: Meets Metal Vol. 1 (The Early Year)
-
-~~~~~~~~~~~~~~~~
- Song number 13 
-~~~~~~~~~~~~~~~~
- Artist(s): Rick Astley 
- Song's name: Never Gonna Give You Up 
- Preview link: https://open.spotify.com/track/1xd9f17sbQtux9ibEOAR7Y 
- Album: 80s Dance
-
-~~~~~~~~~~~~~~~~
- Song number 14 
-~~~~~~~~~~~~~~~~
- Artist(s): Rick Astley 
- Song's name: Never Gonna Give You Up 
- Preview link: https://open.spotify.com/track/4JqB1zf7hfRFRn5lUDno4Z 
- Album: 80s Hits
-
-~~~~~~~~~~~~~~~~
- Song number 15 
-~~~~~~~~~~~~~~~~
- Artist(s): Rick Astley 
- Song's name: Never Gonna Give You Up - Escape to NY Mix 
- Preview link: https://open.spotify.com/track/6i1HZrheheem5e7wBriGgi 
- Album: The Hit Factory Ultimate Collection
-
-~~~~~~~~~~~~~~~~
- Song number 16 
-~~~~~~~~~~~~~~~~
- Artist(s): Stegosaurus Rex 
- Song's name: Never Gonna Give You Up (Rick Astley) 
- Preview link: https://open.spotify.com/track/3f6PJASeGKKYjPgnEhex61 
- Album: The Dino Soars
-
-~~~~~~~~~~~~~~~~
- Song number 17 
-~~~~~~~~~~~~~~~~
- Artist(s): Hollywood 
- Song's name: Never Gonna Give You Up 
- Preview link: https://open.spotify.com/track/0i36HGzNbb4lf0OHKN95rR 
- Album: Where Are You on the Ruby, Pt. 2
-
-~~~~~~~~~~~~~~~~
- Song number 18 
-~~~~~~~~~~~~~~~~
- Artist(s): Rick Astley 
- Song's name: Never Gonna Give You Up 
- Preview link: https://open.spotify.com/track/0vYKa2EJ9KzQayPCkr1OXh 
- Album: The 80s
-
-~~~~~~~~~~~~~~~~
- Song number 19 
-~~~~~~~~~~~~~~~~
- Artist(s): Rick Astley 
- Song's name: Never Gonna Give You Up 
- Preview link: https://open.spotify.com/track/7bvXbMxXOn2ful29rHD4yB 
- Album: The Hit Factory Ultimate Collection
-
-~~~~~~~~~~~~~~~~
- Song number 20 
-~~~~~~~~~~~~~~~~
- Artist(s): Rick Astley Tribute Band 
- Song's name: Never Gonna Give You Up 
- Preview link: https://open.spotify.com/track/2RZzlFzClrazUZovCqI7s8 
- Album: World's Greatest 80's Disco - The Only 80's Disco Album You'll Ever Need (Deluxe Version)
-
-~~~~~~~~~~~~~~~~END LIRI SPOTIFY REQUEST~~~~~~~~~~~~~~~~
-
-~~~~~~~~~~~~~~~~
- Event Artist: P!nk 
-~~~~~~~~~~~~~~~~
- Event Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR 
- Event Location: Los Angeles 
- Event Date & Time: Friday, April 19th 2019 
-
-~~~~~~~~~~~~~~~~END LIRI BAND REQUEST~~~~~~~~~~~~~~~~
-
-~~~~~~~~~~~~~~~~~~~~~~
- Event Artist: P!nk 
-~~~~~~~~~~~~~~~~~~~~~~
- Event Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR 
- Event Location: Los Angeles 
- Event Date & Time: Friday, April 19th 2019 
-
-~~~~~~~~~~~~~~~~END LIRI BAND REQUEST~~~~~~~~~~~~~~~~
-
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
- Title of the movie: Willow 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
- Year the movie came out: 1988 
- IMDB Rating: 7.3 
- Rotten Tomatoes Rating: N/A 
- Country where the movie was produced: USA 
- Language of the movie: English 
- Plot: A reluctant dwarf must play a critical role in protecting a special baby from an evil queen. 
- Actor(s) in the movie: Val Kilmer, Joanne Whalley, Warwick Davis, Jean Marsh 
-
-~~~~~~~~~~~~~~~~END LIRI OMDB REQUEST~~~~~~~~~~~~~~~~
-
-~~~~~~~~~~~~~~~~~~~~~~
- Event Artist: Green 
-~~~~~~~~~~~~~~~~~~~~~~
- Event Venue: The Mint 
- Event Location: Los Angeles 
- Event Date & Time: Saturday, May 11th 2019 
-
-~~~~~~~~~~~~~~~~END LIRI BAND REQUEST~~~~~~~~~~~~~~~~
-
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
- Title of the movie: The Matrix 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
- Year the movie came out: 1999 
- IMDB Rating: 8.7 
- Rotten Tomatoes Rating: N/A 
- Country where the movie was produced: USA 
- Language of the movie: English 
- Plot: A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers. 
- Actor(s) in the movie: Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving 
-
-~~~~~~~~~~~~~~~~END LIRI OMDB REQUEST~~~~~~~~~~~~~~~~
-
-~~~~~~~~~~~~~~~~
- Song number 1 
-~~~~~~~~~~~~~~~~
- Artist(s): Big Pun 
- Song's name: Still Not a Player (feat. Joe) - Radio Version 
- Preview link: https://open.spotify.com/track/3GKL13lkM5nRc4zC1lIOrR 
- Album: Capital Punishment (Explicit Version)
-
-~~~~~~~~~~~~~~~~
- Song number 2 
-~~~~~~~~~~~~~~~~
- Artist(s): Big Pun 
- Song's name: Twinz (Deep Cover 98) 
- Preview link: https://open.spotify.com/track/0B8drtTSp68pZdkmVrG9ZA 
- Album: Capital Punishment (Explicit Version)
-
-~~~~~~~~~~~~~~~~
- Song number 3 
-~~~~~~~~~~~~~~~~
- Artist(s): Big Pun 
- Song's name: Still Not a Player 
- Preview link: https://open.spotify.com/track/5PG3h38oiQLEJlOuOvIs80 
- Album: Greatest Hits
-
-~~~~~~~~~~~~~~~~
- Song number 4 
-~~~~~~~~~~~~~~~~
- Artist(s): The Beatnuts 
- Song's name: Off the Books (feat. Big Punisher & Cuban Linx) (feat. Big Pun & Cuban Linx) 
- Preview link: https://open.spotify.com/track/3zoExZ6fKHXOUbZfS0zT3C 
- Album: The Legacy: The Best Of Big Pun
-
-~~~~~~~~~~~~~~~~
- Song number 5 
-~~~~~~~~~~~~~~~~
- Artist(s): Big Pun 
- Song's name: Still Not a Player (feat. Joe) 
- Preview link: https://open.spotify.com/track/2ntj6zoYOXfdQDzxo2kHrD 
- Album: The Legacy: The Best Of Big Pun
-
-~~~~~~~~~~~~~~~~
- Song number 6 
-~~~~~~~~~~~~~~~~
- Artist(s): Big Pun 
- Song's name: It's So Hard (featuring Donell Jones) 
- Preview link: https://open.spotify.com/track/5NQdweL8O7nGdM7e4IS1lf 
- Album: Yeah Baby
-
-~~~~~~~~~~~~~~~~
- Song number 7 
-~~~~~~~~~~~~~~~~
- Artist(s): Big Pun 
- Song's name: You Ain't a Killer 
- Preview link: https://open.spotify.com/track/14Ai4sTxWbQpNymhpQKuES 
- Album: Capital Punishment (Explicit Version)
-
-~~~~~~~~~~~~~~~~
- Song number 8 
-~~~~~~~~~~~~~~~~
- Artist(s): Big Pun 
- Song's name: Beware 
- Preview link: https://open.spotify.com/track/0fpVsdhxofrLCZL1CWETxa 
- Album: Capital Punishment (Explicit Version)
-
-~~~~~~~~~~~~~~~~
- Song number 9 
-~~~~~~~~~~~~~~~~
- Artist(s): Big Pun 
- Song's name: Still Not a Player (feat. Joe) 
- Preview link: https://open.spotify.com/track/5kWShBA43yNFBzHk7g1Mtd 
- Album: Endangered Species
-
-~~~~~~~~~~~~~~~~
- Song number 10 
-~~~~~~~~~~~~~~~~
- Artist(s): Big Pun 
- Song's name: Still Not a Player (Remix) - Radio Version 
- Preview link: https://open.spotify.com/track/6E6SLdCDadErUAM90cAxGx 
- Album: Still Not a Player EP
-
-~~~~~~~~~~~~~~~~
- Song number 11 
-~~~~~~~~~~~~~~~~
- Artist(s): Big Pun 
- Song's name: I'm Not a Player 
- Preview link: https://open.spotify.com/track/0JyfYLKuXRmPhMkIPVstu5 
- Album: Capital Punishment (Explicit Version)
-
-~~~~~~~~~~~~~~~~
- Song number 12 
-~~~~~~~~~~~~~~~~
- Artist(s): Big Pun 
- Song's name: I'm Not a Player 
- Preview link: https://open.spotify.com/track/7x60AMbxihJog5h5Sz4NLC 
- Album: Hip Hop 100 Hits - Urban rap & R n B anthems inc. Jay Z, A$ap Rocky, Wu-Tang Clan & Nas
-
-~~~~~~~~~~~~~~~~
- Song number 13 
-~~~~~~~~~~~~~~~~
- Artist(s): Big Pun 
- Song's name: Still Not a Player (feat. Joe) 
- Preview link: https://open.spotify.com/track/1HX0yug8SOn8FWCnn9DBij 
- Album: Hip Hop 100 Hits - Urban rap & R n B anthems inc. Jay Z, A$ap Rocky, Wu-Tang Clan & Nas
-
-~~~~~~~~~~~~~~~~
- Song number 14 
-~~~~~~~~~~~~~~~~
- Artist(s): Jennifer Lopez 
- Song's name: Feelin' So Good - Remix featuring Big Pun & Fat Joe 
- Preview link: https://open.spotify.com/track/1AlvKwk3NBZ8lAt7GC6SiT 
- Album: On The 6
-
-~~~~~~~~~~~~~~~~
- Song number 15 
-~~~~~~~~~~~~~~~~
- Artist(s): Fat Joe 
- Song's name: John Blaze (feat. Nas, Big Punisher, Jadikiss and Raekwon) 
- Preview link: https://open.spotify.com/track/7t5t1cg1BcS0CdPE8YNLJe 
- Album: Don Cartagena
-
-~~~~~~~~~~~~~~~~
- Song number 16 
-~~~~~~~~~~~~~~~~
- Artist(s): Big Pun 
- Song's name: 100% (feat. Tony Sunshine) 
- Preview link: https://open.spotify.com/track/6xeB09UZ7cnexyMkYdGlMS 
- Album: Yeah Baby
-
-~~~~~~~~~~~~~~~~
- Song number 17 
-~~~~~~~~~~~~~~~~
- Artist(s): Fat Joe 
- Song's name: Triplets (feat. Big Punisher & Prospect) 
- Preview link: https://open.spotify.com/track/5Q9nDWlFJzZKFnpl30dsns 
- Album: Don Cartagena
-
-~~~~~~~~~~~~~~~~
- Song number 18 
-~~~~~~~~~~~~~~~~
- Artist(s): Naughty By Nature 
- Song's name: We Could Do It 
- Preview link: https://open.spotify.com/track/3qhOxT5vV4xMEI90Qka5Am 
- Album: Nineteen Naughty Nine Nature's Fury
-
-~~~~~~~~~~~~~~~~
- Song number 19 
-~~~~~~~~~~~~~~~~
- Artist(s): Big Pun 
- Song's name: Punish Me (feat. Miss Jones) 
- Preview link: https://open.spotify.com/track/06kMGyiybLptwh9hkmhsV5 
- Album: Capital Punishment (Explicit Version)
-
-~~~~~~~~~~~~~~~~
- Song number 20 
-~~~~~~~~~~~~~~~~
- Artist(s): Big Pun 
- Song's name: Glamour Life (feat. Fat Joe, Triple Seis, Armageddon & Cuban Link) 
- Preview link: https://open.spotify.com/track/1JqyY1N64SmuGES3xcijPD 
- Album: Capital Punishment (Explicit Version)
-
-~~~~~~~~~~~~~~~~END LIRI SPOTIFY REQUEST~~~~~~~~~~~~~~~~
-
-~~~~~~~~~~~~~~~~~~~~~~
- Event Artist: The Who 
-~~~~~~~~~~~~~~~~~~~~~~
- Event Venue: Van Andel Arena 
- Event Location: Grand Rapids 
- Event Date & Time: Tuesday, May 7th 2019 
-
-~~~~~~~~~~~~~~~~END LIRI BAND REQUEST~~~~~~~~~~~~~~~~
-
-~~~~~~~~~~~~~~~~~~~~~~
- Event Artist: P!nk 
-~~~~~~~~~~~~~~~~~~~~~~
- Event Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR 
- Event Location: Los Angeles 
- Event Date & Time: Friday, April 19th 2019 
-
-~~~~~~~~~~~~~~~~END LIRI BAND REQUEST~~~~~~~~~~~~~~~~
-
-~~~~~~~~~~~~~~~~~~~~~~
- Event Artist: Big 
-~~~~~~~~~~~~~~~~~~~~~~
- Event Venue: Big Easy Social and Pleasure Club 
- Event Location: Houston 
- Event Date & Time: Wednesday, April 24th 2019 
-
-~~~~~~~~~~~~~~~~END LIRI BAND REQUEST~~~~~~~~~~~~~~~~
-
-~~~~~~~~~~~~~~~~~~~~~~
- Event Artist: Big 
-~~~~~~~~~~~~~~~~~~~~~~
- Event Venue: Big Easy Social and Pleasure Club 
- Event Location: Houston 
- Event Date & Time: Wednesday, April 24th 2019 
-
-~~~~~~~~~~~~~~~~END LIRI BAND REQUEST~~~~~~~~~~~~~~~~
-
-~~~~~~~~~~~~~~~~~~~~~~
- Event Artist: P!nk 
-~~~~~~~~~~~~~~~~~~~~~~
- Event Venue: Little Caesars Arena  
- Event Location: Detroit 
- Event Date & Time: Friday, April 26th 2019 
-
-~~~~~~~~~~~~~~~~END LIRI BAND REQUEST~~~~~~~~~~~~~~~~
-
-~~~~~~~~~~~~~~~~~~~~~~
- Event Artist: P!nk 
-~~~~~~~~~~~~~~~~~~~~~~
- Event Venue: Little Caesars Arena  
- Event Location: Detroit 
- Event Date & Time: Friday, April 26th 2019 
-
-~~~~~~~~~~~~~~~~END LIRI BAND REQUEST~~~~~~~~~~~~~~~~
-
-~~~~~~~~~~~~~~~~~~~~~~
- Event Artist: P!nk 
-~~~~~~~~~~~~~~~~~~~~~~
- Event Venue: Little Caesars Arena  
- Event Location: Detroit 
- Event Date & Time: Friday, April 26th 2019 
-
-~~~~~~~~~~~~~~~~END LIRI BAND REQUEST~~~~~~~~~~~~~~~~
-
-~~~~~~~~~~~~~~~~~~~~~~
- Event Artist: P!nk 
-~~~~~~~~~~~~~~~~~~~~~~
- Event Venue: Little Caesars Arena  
- Event Location: Detroit 
- Event Date & Time: Friday, April 26th 2019 
-
-~~~~~~~~~~~~~~~~END LIRI BAND REQUEST~~~~~~~~~~~~~~~~
-
-~~~~~~~~~~~~~~~~~~~~~~
- Event Artist: P!nk 
-~~~~~~~~~~~~~~~~~~~~~~
- Event Venue: Little Caesars Arena  
- Event Location: Detroit 
- Event Date & Time: Friday, April 26th 2019 
-
-~~~~~~~~~~~~~~~~END LIRI BAND REQUEST~~~~~~~~~~~~~~~~
-
-~~~~~~~~~~~~~~~~~~~~~~
- Event Artist: P!nk 
-~~~~~~~~~~~~~~~~~~~~~~
- Event Venue: Little Caesars Arena  
- Event Location: Detroit 
- Event Date & Time: Friday, April 26th 2019 
-
-~~~~~~~~~~~~~~~~END LIRI BAND REQUEST~~~~~~~~~~~~~~~~
-
-~~~~~~~~~~~~~~~~~~~~~~
- Event Artist: P!nk 
-~~~~~~~~~~~~~~~~~~~~~~
- Event Venue: Little Caesars Arena  
- Event Location: Detroit 
- Event Date & Time: Friday, April 26th 2019 
-
-~~~~~~~~~~~~~~~~END LIRI BAND REQUEST~~~~~~~~~~~~~~~~
-
-~~~~~~~~~~~~~~~~~~~~~~
- Event Artist: P!nk 
-~~~~~~~~~~~~~~~~~~~~~~
- Event Venue: Little Caesars Arena  
- Event Location: Detroit 
- Event Date & Time: Friday, April 26th 2019 
-
-~~~~~~~~~~~~~~~~END LIRI BAND REQUEST~~~~~~~~~~~~~~~~
-
-~~~~~~~~~~~~~~~~~~~~~~
- Event Artist: P!nk 
-~~~~~~~~~~~~~~~~~~~~~~
- Event Venue: Little Caesars Arena  
- Event Location: Detroit 
- Event Date & Time: Friday, April 26th 2019 
-
-~~~~~~~~~~~~~~~~END LIRI BAND REQUEST~~~~~~~~~~~~~~~~
-
-~~~~~~~~~~~~~~~~~~~~~~
- Event Artist: P!nk 
-~~~~~~~~~~~~~~~~~~~~~~
- Event Venue: Little Caesars Arena  
- Event Location: Detroit 
- Event Date & Time: Friday, April 26th 2019 
-
-~~~~~~~~~~~~~~~~END LIRI BAND REQUEST~~~~~~~~~~~~~~~~
-
-~~~~~~~~~~~~~~~~~~~~~~
- Event Artist: P!nk 
-~~~~~~~~~~~~~~~~~~~~~~
- Event Venue: Little Caesars Arena  
- Event Location: Detroit 
- Event Date & Time: Friday, April 26th 2019 
-
-~~~~~~~~~~~~~~~~END LIRI BAND REQUEST~~~~~~~~~~~~~~~~
-
-~~~~~~~~~~~~~~~~~~~~~~
- Event Artist: P!nk 
-~~~~~~~~~~~~~~~~~~~~~~
- Event Venue: Little Caesars Arena  
- Event Location: Detroit 
- Event Date & Time: Friday, April 26th 2019 
-
-~~~~~~~~~~~~~~~~END LIRI BAND REQUEST~~~~~~~~~~~~~~~~
-
-~~~~~~~~~~~~~~~~~~~~~~
- Event Artist: P!nk 
-~~~~~~~~~~~~~~~~~~~~~~
- Event Venue: Little Caesars Arena  
- Event Location: Detroit 
- Event Date & Time: Friday, April 26th 2019 
-
-~~~~~~~~~~~~~~~~END LIRI BAND REQUEST~~~~~~~~~~~~~~~~
-
-~~~~~~~~~~~~~~~~~~~~~~
- Event Artist: P!nk 
-~~~~~~~~~~~~~~~~~~~~~~
- Event Venue: Little Caesars Arena  
- Event Location: Detroit 
- Event Date & Time: Friday, April 26th 2019 
-
-~~~~~~~~~~~~~~~~END LIRI BAND REQUEST~~~~~~~~~~~~~~~~
-
-~~~~~~~~~~~~~~~~~~~~~~
- Event Artist: P!nk 
-~~~~~~~~~~~~~~~~~~~~~~
- Event Venue: Little Caesars Arena  
- Event Location: Detroit 
- Event Date & Time: Friday, April 26th 2019 
-
-~~~~~~~~~~~~~~~~END LIRI BAND REQUEST~~~~~~~~~~~~~~~~
-
-~~~~~~~~~~~~~~~~~~~~~~
- Event Artist: P!nk 
-~~~~~~~~~~~~~~~~~~~~~~
- Event Venue: Little Caesars Arena  
- Event Location: Detroit 
- Event Date & Time: Friday, April 26th 2019 
-
-~~~~~~~~~~~~~~~~END LIRI BAND REQUEST~~~~~~~~~~~~~~~~
-
-~~~~~~~~~~~~~~~~~~~~~~
- Event Artist: P!nk 
-~~~~~~~~~~~~~~~~~~~~~~
- Event Venue: Little Caesars Arena  
- Event Location: Detroit 
- Event Date & Time: Friday, April 26th 2019 
-
-~~~~~~~~~~~~~~~~END LIRI BAND REQUEST~~~~~~~~~~~~~~~~
-
-~~~~~~~~~~~~~~~~~~~~~~
- Event Artist: P!nk 
-~~~~~~~~~~~~~~~~~~~~~~
- Event Venue: Little Caesars Arena  
- Event Location: Detroit 
- Event Date & Time: Friday, April 26th 2019 
-
-~~~~~~~~~~~~~~~~END LIRI BAND REQUEST~~~~~~~~~~~~~~~~
-
-~~~~~~~~~~~~~~~~~~~~~~
- Event Artist: Big Time 
-~~~~~~~~~~~~~~~~~~~~~~
- Event Venue: Kulturhalle Stockheim 
- Event Location: Glauburg 
- Event Date & Time: Friday, June 14th 2019 
-
-~~~~~~~~~~~~~~~~END LIRI BAND REQUEST~~~~~~~~~~~~~~~~
-
-~~~~~~~~~~~~~~~~~~~~~~
- Event Artist: Big Time 
-~~~~~~~~~~~~~~~~~~~~~~
- Event Venue: Kulturhalle Stockheim 
- Event Location: Glauburg 
- Event Date & Time: Friday, June 14th 2019 
-
-~~~~~~~~~~~~~~~~END LIRI BAND REQUEST~~~~~~~~~~~~~~~~
-
-~~~~~~~~~~~~~~~~~~~~~~
- Event Artist: Nicki Minaj 
-~~~~~~~~~~~~~~~~~~~~~~
- Event Venue: Staples Center 
- Event Location: Los Angeles 
- Event Date & Time: Thursday, June 20th 2019 
-
-~~~~~~~~~~~~~~~~END LIRI BAND REQUEST~~~~~~~~~~~~~~~~
-
-~~~~~~~~~~~~~~~~
- Song number 1 
-~~~~~~~~~~~~~~~~
- Artist(s): Rick Astley 
- Song's name: Never Gonna Give You Up 
- Preview link: https://open.spotify.com/track/7GhIk7Il098yCjg4BQjzvb 
- Album: Whenever You Need Somebody
-
-~~~~~~~~~~~~~~~~
- Song number 2 
-~~~~~~~~~~~~~~~~
- Artist(s): Rick Astley 
- Song's name: Never Gonna Give You Up 
- Preview link: https://open.spotify.com/track/0FutrWIUM5Mg3434asiwkp 
- Album: Platinum & Gold Collection
-
-~~~~~~~~~~~~~~~~
- Song number 3 
-~~~~~~~~~~~~~~~~
- Artist(s): Rick Astley 
- Song's name: Never Gonna Give You Up - 7" Mix 
- Preview link: https://open.spotify.com/track/4EZz8Byhbjk0tOKFJlCgPB 
- Album: 80s 100 Hits
-
-~~~~~~~~~~~~~~~~
- Song number 4 
-~~~~~~~~~~~~~~~~
- Artist(s): Rick Astley 
- Song's name: Never Gonna Give You Up 
- Preview link: https://open.spotify.com/track/20UthavN6ATWdaZGdeRPuM 
- Album: 80 Totally 80s Hits
-
-~~~~~~~~~~~~~~~~
- Song number 5 
-~~~~~~~~~~~~~~~~
- Artist(s): Rick Astley 
- Song's name: Never Gonna Give You Up 
- Preview link: https://open.spotify.com/track/1oQCO7vLjHfOiSW10Luahl 
- Album: Football Songs
-
-~~~~~~~~~~~~~~~~
- Song number 6 
-~~~~~~~~~~~~~~~~
- Artist(s): Rick Astley 
- Song's name: Never Gonna Give You Up 
- Preview link: https://open.spotify.com/track/2cDqdu57U9mr348Iz0dsX4 
- Album: Feel Good Friday
-
-~~~~~~~~~~~~~~~~
- Song number 7 
-~~~~~~~~~~~~~~~~
- Artist(s): Rick Astley 
- Song's name: Never Gonna Give You Up 
- Preview link: https://open.spotify.com/track/1aqwdQZ6xzuSgBFg3hRcNt 
- Album: The Greatest Hits
-
-~~~~~~~~~~~~~~~~
- Song number 8 
-~~~~~~~~~~~~~~~~
- Artist(s): Rick Astley 
- Song's name: Never Gonna Give You Up - 7" Mix 
- Preview link: https://open.spotify.com/track/4pD16dZyIby2EG9HUMXyQ0 
- Album: Happiness Forever
-
-~~~~~~~~~~~~~~~~
- Song number 9 
-~~~~~~~~~~~~~~~~
- Artist(s): Rick Astley 
- Song's name: Never Gonna Give You Up 
- Preview link: https://open.spotify.com/track/7erHKrGAhOfhHsg5pTAkjl 
- Album: 3 Originals
-
-~~~~~~~~~~~~~~~~
- Song number 10 
-~~~~~~~~~~~~~~~~
- Artist(s): Rick Astley 
- Song's name: Never Gonna Give You Up 
- Preview link: https://open.spotify.com/track/3kmq7N9MTjl3OCxJWszdqw 
- Album: Greatest Hits
-
-~~~~~~~~~~~~~~~~
- Song number 11 
-~~~~~~~~~~~~~~~~
- Artist(s): ERock 
- Song's name: Never Gonna Give You Up By Rick Astley Meets Metal 
- Preview link: https://open.spotify.com/track/06hxM9xim1eZ37uQQTr8zV 
- Album: Meets Metal Vol. 1 (The Early Year)
-
-~~~~~~~~~~~~~~~~
- Song number 12 
-~~~~~~~~~~~~~~~~
- Artist(s): Rick Astley 
- Song's name: Never Gonna Give You Up 
- Preview link: https://open.spotify.com/track/4A2eDiBGdWZMiH1uWd0p1Y 
- Album: Românticas Anos 80
-
-~~~~~~~~~~~~~~~~
- Song number 13 
-~~~~~~~~~~~~~~~~
- Artist(s): Rick Astley 
- Song's name: Never Gonna Give You Up 
- Preview link: https://open.spotify.com/track/1xd9f17sbQtux9ibEOAR7Y 
- Album: 80s Dance
-
-~~~~~~~~~~~~~~~~
- Song number 14 
-~~~~~~~~~~~~~~~~
- Artist(s): Rick Astley 
- Song's name: Never Gonna Give You Up 
- Preview link: https://open.spotify.com/track/4JqB1zf7hfRFRn5lUDno4Z 
- Album: 80s Hits
-
-~~~~~~~~~~~~~~~~
- Song number 15 
-~~~~~~~~~~~~~~~~
- Artist(s): Rick Astley 
- Song's name: Never Gonna Give You Up 
- Preview link: https://open.spotify.com/track/0vYKa2EJ9KzQayPCkr1OXh 
- Album: The 80s
-
-~~~~~~~~~~~~~~~~
- Song number 16 
-~~~~~~~~~~~~~~~~
- Artist(s): Rick Astley 
- Song's name: Never Gonna Give You Up - Escape to NY Mix 
- Preview link: https://open.spotify.com/track/6i1HZrheheem5e7wBriGgi 
- Album: The Hit Factory Ultimate Collection
-
-~~~~~~~~~~~~~~~~
- Song number 17 
-~~~~~~~~~~~~~~~~
- Artist(s): Stegosaurus Rex 
- Song's name: Never Gonna Give You Up (Rick Astley) 
- Preview link: https://open.spotify.com/track/3f6PJASeGKKYjPgnEhex61 
- Album: The Dino Soars
-
-~~~~~~~~~~~~~~~~
- Song number 18 
-~~~~~~~~~~~~~~~~
- Artist(s): Hollywood 
- Song's name: Never Gonna Give You Up 
- Preview link: https://open.spotify.com/track/0i36HGzNbb4lf0OHKN95rR 
- Album: Where Are You on the Ruby, Pt. 2
-
-~~~~~~~~~~~~~~~~
- Song number 19 
-~~~~~~~~~~~~~~~~
- Artist(s): Rick Astley 
- Song's name: Never Gonna Give You Up 
- Preview link: https://open.spotify.com/track/7bvXbMxXOn2ful29rHD4yB 
- Album: The Hit Factory Ultimate Collection
-
-~~~~~~~~~~~~~~~~
- Song number 20 
-~~~~~~~~~~~~~~~~
- Artist(s): Rick Astley Tribute Band 
- Song's name: Never Gonna Give You Up 
- Preview link: https://open.spotify.com/track/2RZzlFzClrazUZovCqI7s8 
- Album: World's Greatest 80's Disco - The Only 80's Disco Album You'll Ever Need (Deluxe Version)
-
-~~~~~~~~~~~~~~~~END LIRI SPOTIFY REQUEST~~~~~~~~~~~~~~~~
-
-~~~~~~~~~~~~~~~~
- Song number 1 
-~~~~~~~~~~~~~~~~
- Artist(s): Rick Astley 
- Song's name: Never Gonna Give You Up 
- Preview link: https://open.spotify.com/track/7GhIk7Il098yCjg4BQjzvb 
- Album: Whenever You Need Somebody
-
-~~~~~~~~~~~~~~~~
- Song number 2 
-~~~~~~~~~~~~~~~~
- Artist(s): Rick Astley 
- Song's name: Never Gonna Give You Up 
- Preview link: https://open.spotify.com/track/0FutrWIUM5Mg3434asiwkp 
- Album: Platinum & Gold Collection
-
-~~~~~~~~~~~~~~~~
- Song number 3 
-~~~~~~~~~~~~~~~~
- Artist(s): Rick Astley 
- Song's name: Never Gonna Give You Up - 7" Mix 
- Preview link: https://open.spotify.com/track/4EZz8Byhbjk0tOKFJlCgPB 
- Album: 80s 100 Hits
-
-~~~~~~~~~~~~~~~~
- Song number 4 
-~~~~~~~~~~~~~~~~
- Artist(s): Rick Astley 
- Song's name: Never Gonna Give You Up 
- Preview link: https://open.spotify.com/track/20UthavN6ATWdaZGdeRPuM 
- Album: 80 Totally 80s Hits
-
-~~~~~~~~~~~~~~~~
- Song number 5 
-~~~~~~~~~~~~~~~~
- Artist(s): Rick Astley 
- Song's name: Never Gonna Give You Up 
- Preview link: https://open.spotify.com/track/1oQCO7vLjHfOiSW10Luahl 
- Album: Football Songs
-
-~~~~~~~~~~~~~~~~
- Song number 6 
-~~~~~~~~~~~~~~~~
- Artist(s): Rick Astley 
- Song's name: Never Gonna Give You Up 
- Preview link: https://open.spotify.com/track/2cDqdu57U9mr348Iz0dsX4 
- Album: Feel Good Friday
-
-~~~~~~~~~~~~~~~~
- Song number 7 
-~~~~~~~~~~~~~~~~
- Artist(s): Rick Astley 
- Song's name: Never Gonna Give You Up 
- Preview link: https://open.spotify.com/track/1aqwdQZ6xzuSgBFg3hRcNt 
- Album: The Greatest Hits
-
-~~~~~~~~~~~~~~~~
- Song number 8 
-~~~~~~~~~~~~~~~~
- Artist(s): Rick Astley 
- Song's name: Never Gonna Give You Up - 7" Mix 
- Preview link: https://open.spotify.com/track/4pD16dZyIby2EG9HUMXyQ0 
- Album: Happiness Forever
-
-~~~~~~~~~~~~~~~~
- Song number 9 
-~~~~~~~~~~~~~~~~
- Artist(s): Rick Astley 
- Song's name: Never Gonna Give You Up 
- Preview link: https://open.spotify.com/track/7erHKrGAhOfhHsg5pTAkjl 
- Album: 3 Originals
-
-~~~~~~~~~~~~~~~~
- Song number 10 
-~~~~~~~~~~~~~~~~
- Artist(s): Rick Astley 
- Song's name: Never Gonna Give You Up 
- Preview link: https://open.spotify.com/track/3kmq7N9MTjl3OCxJWszdqw 
- Album: Greatest Hits
-
-~~~~~~~~~~~~~~~~
- Song number 11 
-~~~~~~~~~~~~~~~~
- Artist(s): ERock 
- Song's name: Never Gonna Give You Up By Rick Astley Meets Metal 
- Preview link: https://open.spotify.com/track/06hxM9xim1eZ37uQQTr8zV 
- Album: Meets Metal Vol. 1 (The Early Year)
-
-~~~~~~~~~~~~~~~~
- Song number 12 
-~~~~~~~~~~~~~~~~
- Artist(s): Rick Astley 
- Song's name: Never Gonna Give You Up 
- Preview link: https://open.spotify.com/track/4A2eDiBGdWZMiH1uWd0p1Y 
- Album: Românticas Anos 80
-
-~~~~~~~~~~~~~~~~
- Song number 13 
-~~~~~~~~~~~~~~~~
- Artist(s): Rick Astley 
- Song's name: Never Gonna Give You Up 
- Preview link: https://open.spotify.com/track/1xd9f17sbQtux9ibEOAR7Y 
- Album: 80s Dance
-
-~~~~~~~~~~~~~~~~
- Song number 14 
-~~~~~~~~~~~~~~~~
- Artist(s): Rick Astley 
- Song's name: Never Gonna Give You Up 
- Preview link: https://open.spotify.com/track/4JqB1zf7hfRFRn5lUDno4Z 
- Album: 80s Hits
-
-~~~~~~~~~~~~~~~~
- Song number 15 
-~~~~~~~~~~~~~~~~
- Artist(s): Rick Astley 
- Song's name: Never Gonna Give You Up 
- Preview link: https://open.spotify.com/track/0vYKa2EJ9KzQayPCkr1OXh 
- Album: The 80s
-
-~~~~~~~~~~~~~~~~
- Song number 16 
-~~~~~~~~~~~~~~~~
- Artist(s): Rick Astley 
- Song's name: Never Gonna Give You Up - Escape to NY Mix 
- Preview link: https://open.spotify.com/track/6i1HZrheheem5e7wBriGgi 
- Album: The Hit Factory Ultimate Collection
-
-~~~~~~~~~~~~~~~~
- Song number 17 
-~~~~~~~~~~~~~~~~
- Artist(s): Stegosaurus Rex 
- Song's name: Never Gonna Give You Up (Rick Astley) 
- Preview link: https://open.spotify.com/track/3f6PJASeGKKYjPgnEhex61 
- Album: The Dino Soars
-
-~~~~~~~~~~~~~~~~
- Song number 18 
-~~~~~~~~~~~~~~~~
- Artist(s): Hollywood 
- Song's name: Never Gonna Give You Up 
- Preview link: https://open.spotify.com/track/0i36HGzNbb4lf0OHKN95rR 
- Album: Where Are You on the Ruby, Pt. 2
-
-~~~~~~~~~~~~~~~~
- Song number 19 
-~~~~~~~~~~~~~~~~
- Artist(s): Rick Astley 
- Song's name: Never Gonna Give You Up 
- Preview link: https://open.spotify.com/track/7bvXbMxXOn2ful29rHD4yB 
- Album: The Hit Factory Ultimate Collection
-
-~~~~~~~~~~~~~~~~
- Song number 20 
-~~~~~~~~~~~~~~~~
- Artist(s): Rick Astley Tribute Band 
- Song's name: Never Gonna Give You Up 
- Preview link: https://open.spotify.com/track/2RZzlFzClrazUZovCqI7s8 
- Album: World's Greatest 80's Disco - The Only 80's Disco Album You'll Ever Need (Deluxe Version)
-
-~~~~~~~~~~~~~~~~END LIRI SPOTIFY REQUEST~~~~~~~~~~~~~~~~
-
-~~~~~~~~~~~~~~~~
- Song number 1 
-~~~~~~~~~~~~~~~~
- Artist(s): Rick Astley 
- Song's name: Never Gonna Give You Up 
- Preview link: https://open.spotify.com/track/7GhIk7Il098yCjg4BQjzvb 
- Album: Whenever You Need Somebody
-
-~~~~~~~~~~~~~~~~
- Song number 2 
-~~~~~~~~~~~~~~~~
- Artist(s): Rick Astley 
- Song's name: Never Gonna Give You Up 
- Preview link: https://open.spotify.com/track/0FutrWIUM5Mg3434asiwkp 
- Album: Platinum & Gold Collection
-
-~~~~~~~~~~~~~~~~
- Song number 3 
-~~~~~~~~~~~~~~~~
- Artist(s): Rick Astley 
- Song's name: Never Gonna Give You Up - 7" Mix 
- Preview link: https://open.spotify.com/track/4EZz8Byhbjk0tOKFJlCgPB 
- Album: 80s 100 Hits
-
-~~~~~~~~~~~~~~~~
- Song number 4 
-~~~~~~~~~~~~~~~~
- Artist(s): Rick Astley 
- Song's name: Never Gonna Give You Up 
- Preview link: https://open.spotify.com/track/20UthavN6ATWdaZGdeRPuM 
- Album: 80 Totally 80s Hits
-
-~~~~~~~~~~~~~~~~
- Song number 5 
-~~~~~~~~~~~~~~~~
- Artist(s): Rick Astley 
- Song's name: Never Gonna Give You Up 
- Preview link: https://open.spotify.com/track/1oQCO7vLjHfOiSW10Luahl 
- Album: Football Songs
-
-~~~~~~~~~~~~~~~~
- Song number 6 
-~~~~~~~~~~~~~~~~
- Artist(s): Rick Astley 
- Song's name: Never Gonna Give You Up 
- Preview link: https://open.spotify.com/track/2cDqdu57U9mr348Iz0dsX4 
- Album: Feel Good Friday
-
-~~~~~~~~~~~~~~~~
- Song number 7 
-~~~~~~~~~~~~~~~~
- Artist(s): Rick Astley 
- Song's name: Never Gonna Give You Up 
- Preview link: https://open.spotify.com/track/1aqwdQZ6xzuSgBFg3hRcNt 
- Album: The Greatest Hits
-
-~~~~~~~~~~~~~~~~
- Song number 8 
-~~~~~~~~~~~~~~~~
- Artist(s): Rick Astley 
- Song's name: Never Gonna Give You Up - 7" Mix 
- Preview link: https://open.spotify.com/track/4pD16dZyIby2EG9HUMXyQ0 
- Album: Happiness Forever
-
-~~~~~~~~~~~~~~~~
- Song number 9 
-~~~~~~~~~~~~~~~~
- Artist(s): Rick Astley 
- Song's name: Never Gonna Give You Up 
- Preview link: https://open.spotify.com/track/7erHKrGAhOfhHsg5pTAkjl 
- Album: 3 Originals
-
-~~~~~~~~~~~~~~~~
- Song number 10 
-~~~~~~~~~~~~~~~~
- Artist(s): Rick Astley 
- Song's name: Never Gonna Give You Up 
- Preview link: https://open.spotify.com/track/3kmq7N9MTjl3OCxJWszdqw 
- Album: Greatest Hits
-
-~~~~~~~~~~~~~~~~
- Song number 11 
-~~~~~~~~~~~~~~~~
- Artist(s): ERock 
- Song's name: Never Gonna Give You Up By Rick Astley Meets Metal 
- Preview link: https://open.spotify.com/track/06hxM9xim1eZ37uQQTr8zV 
- Album: Meets Metal Vol. 1 (The Early Year)
-
-~~~~~~~~~~~~~~~~
- Song number 12 
-~~~~~~~~~~~~~~~~
- Artist(s): Rick Astley 
- Song's name: Never Gonna Give You Up 
- Preview link: https://open.spotify.com/track/4A2eDiBGdWZMiH1uWd0p1Y 
- Album: Românticas Anos 80
-
-~~~~~~~~~~~~~~~~
- Song number 13 
-~~~~~~~~~~~~~~~~
- Artist(s): Rick Astley 
- Song's name: Never Gonna Give You Up 
- Preview link: https://open.spotify.com/track/1xd9f17sbQtux9ibEOAR7Y 
- Album: 80s Dance
-
-~~~~~~~~~~~~~~~~
- Song number 14 
-~~~~~~~~~~~~~~~~
- Artist(s): Rick Astley 
- Song's name: Never Gonna Give You Up 
- Preview link: https://open.spotify.com/track/4JqB1zf7hfRFRn5lUDno4Z 
- Album: 80s Hits
-
-~~~~~~~~~~~~~~~~
- Song number 15 
-~~~~~~~~~~~~~~~~
- Artist(s): Rick Astley 
- Song's name: Never Gonna Give You Up 
- Preview link: https://open.spotify.com/track/0vYKa2EJ9KzQayPCkr1OXh 
- Album: The 80s
-
-~~~~~~~~~~~~~~~~
- Song number 16 
-~~~~~~~~~~~~~~~~
- Artist(s): Rick Astley 
- Song's name: Never Gonna Give You Up - Escape to NY Mix 
- Preview link: https://open.spotify.com/track/6i1HZrheheem5e7wBriGgi 
- Album: The Hit Factory Ultimate Collection
-
-~~~~~~~~~~~~~~~~
- Song number 17 
-~~~~~~~~~~~~~~~~
- Artist(s): Stegosaurus Rex 
- Song's name: Never Gonna Give You Up (Rick Astley) 
- Preview link: https://open.spotify.com/track/3f6PJASeGKKYjPgnEhex61 
- Album: The Dino Soars
-
-~~~~~~~~~~~~~~~~
- Song number 18 
-~~~~~~~~~~~~~~~~
- Artist(s): Hollywood 
- Song's name: Never Gonna Give You Up 
- Preview link: https://open.spotify.com/track/0i36HGzNbb4lf0OHKN95rR 
- Album: Where Are You on the Ruby, Pt. 2
-
-~~~~~~~~~~~~~~~~
- Song number 19 
-~~~~~~~~~~~~~~~~
- Artist(s): Rick Astley 
- Song's name: Never Gonna Give You Up 
- Preview link: https://open.spotify.com/track/7bvXbMxXOn2ful29rHD4yB 
- Album: The Hit Factory Ultimate Collection
-
-~~~~~~~~~~~~~~~~
- Song number 20 
-~~~~~~~~~~~~~~~~
- Artist(s): Rick Astley Tribute Band 
- Song's name: Never Gonna Give You Up 
- Preview link: https://open.spotify.com/track/2RZzlFzClrazUZovCqI7s8 
- Album: World's Greatest 80's Disco - The Only 80's Disco Album You'll Ever Need (Deluxe Version)
-
-~~~~~~~~~~~~~~~~END LIRI SPOTIFY REQUEST~~~~~~~~~~~~~~~~
-
-~~~~~~~~~~~~~~~~
- Song number 1 
-~~~~~~~~~~~~~~~~
- Artist(s): Big Pun 
- Song's name: Still Not a Player (feat. Joe) - Radio Version 
- Preview link: https://open.spotify.com/track/3GKL13lkM5nRc4zC1lIOrR 
- Album: Capital Punishment (Explicit Version)
-
-~~~~~~~~~~~~~~~~
- Song number 2 
-~~~~~~~~~~~~~~~~
- Artist(s): Big Pun 
- Song's name: Twinz (Deep Cover 98) 
- Preview link: https://open.spotify.com/track/0B8drtTSp68pZdkmVrG9ZA 
- Album: Capital Punishment (Explicit Version)
-
-~~~~~~~~~~~~~~~~
- Song number 3 
-~~~~~~~~~~~~~~~~
- Artist(s): Big Pun 
- Song's name: Still Not a Player 
- Preview link: https://open.spotify.com/track/5PG3h38oiQLEJlOuOvIs80 
- Album: Greatest Hits
-
-~~~~~~~~~~~~~~~~
- Song number 4 
-~~~~~~~~~~~~~~~~
- Artist(s): The Beatnuts 
- Song's name: Off the Books (feat. Big Punisher & Cuban Linx) (feat. Big Pun & Cuban Linx) 
- Preview link: https://open.spotify.com/track/3zoExZ6fKHXOUbZfS0zT3C 
- Album: The Legacy: The Best Of Big Pun
-
-~~~~~~~~~~~~~~~~
- Song number 5 
-~~~~~~~~~~~~~~~~
- Artist(s): Big Pun 
- Song's name: Still Not a Player (feat. Joe) 
- Preview link: https://open.spotify.com/track/2ntj6zoYOXfdQDzxo2kHrD 
- Album: The Legacy: The Best Of Big Pun
-
-~~~~~~~~~~~~~~~~
- Song number 6 
-~~~~~~~~~~~~~~~~
- Artist(s): Big Pun 
- Song's name: It's So Hard (featuring Donell Jones) 
- Preview link: https://open.spotify.com/track/5NQdweL8O7nGdM7e4IS1lf 
- Album: Yeah Baby
-
-~~~~~~~~~~~~~~~~
- Song number 7 
-~~~~~~~~~~~~~~~~
- Artist(s): Big Pun 
- Song's name: You Ain't a Killer 
- Preview link: https://open.spotify.com/track/14Ai4sTxWbQpNymhpQKuES 
- Album: Capital Punishment (Explicit Version)
-
-~~~~~~~~~~~~~~~~
- Song number 8 
-~~~~~~~~~~~~~~~~
- Artist(s): Big Pun 
- Song's name: Beware 
- Preview link: https://open.spotify.com/track/0fpVsdhxofrLCZL1CWETxa 
- Album: Capital Punishment (Explicit Version)
-
-~~~~~~~~~~~~~~~~
- Song number 9 
-~~~~~~~~~~~~~~~~
- Artist(s): Big Pun 
- Song's name: Still Not a Player (feat. Joe) 
- Preview link: https://open.spotify.com/track/5kWShBA43yNFBzHk7g1Mtd 
- Album: Endangered Species
-
-~~~~~~~~~~~~~~~~
- Song number 10 
-~~~~~~~~~~~~~~~~
- Artist(s): Big Pun 
- Song's name: Still Not a Player (Remix) - Radio Version 
- Preview link: https://open.spotify.com/track/6E6SLdCDadErUAM90cAxGx 
- Album: Still Not a Player EP
-
-~~~~~~~~~~~~~~~~
- Song number 11 
-~~~~~~~~~~~~~~~~
- Artist(s): Big Pun 
- Song's name: I'm Not a Player 
- Preview link: https://open.spotify.com/track/0JyfYLKuXRmPhMkIPVstu5 
- Album: Capital Punishment (Explicit Version)
-
-~~~~~~~~~~~~~~~~
- Song number 12 
-~~~~~~~~~~~~~~~~
- Artist(s): Big Pun 
- Song's name: I'm Not a Player 
- Preview link: https://open.spotify.com/track/7x60AMbxihJog5h5Sz4NLC 
- Album: Hip Hop 100 Hits - Urban rap & R n B anthems inc. Jay Z, A$ap Rocky, Wu-Tang Clan & Nas
-
-~~~~~~~~~~~~~~~~
- Song number 13 
-~~~~~~~~~~~~~~~~
- Artist(s): Big Pun 
- Song's name: Still Not a Player (feat. Joe) 
- Preview link: https://open.spotify.com/track/1HX0yug8SOn8FWCnn9DBij 
- Album: Hip Hop 100 Hits - Urban rap & R n B anthems inc. Jay Z, A$ap Rocky, Wu-Tang Clan & Nas
-
-~~~~~~~~~~~~~~~~
- Song number 14 
-~~~~~~~~~~~~~~~~
- Artist(s): Jennifer Lopez 
- Song's name: Feelin' So Good - Remix featuring Big Pun & Fat Joe 
- Preview link: https://open.spotify.com/track/1AlvKwk3NBZ8lAt7GC6SiT 
- Album: On The 6
-
-~~~~~~~~~~~~~~~~
- Song number 15 
-~~~~~~~~~~~~~~~~
- Artist(s): Fat Joe 
- Song's name: John Blaze (feat. Nas, Big Punisher, Jadikiss and Raekwon) 
- Preview link: https://open.spotify.com/track/7t5t1cg1BcS0CdPE8YNLJe 
- Album: Don Cartagena
-
-~~~~~~~~~~~~~~~~
- Song number 16 
-~~~~~~~~~~~~~~~~
- Artist(s): Big Pun 
- Song's name: 100% (feat. Tony Sunshine) 
- Preview link: https://open.spotify.com/track/6xeB09UZ7cnexyMkYdGlMS 
- Album: Yeah Baby
-
-~~~~~~~~~~~~~~~~
- Song number 17 
-~~~~~~~~~~~~~~~~
- Artist(s): Fat Joe 
- Song's name: Triplets (feat. Big Punisher & Prospect) 
- Preview link: https://open.spotify.com/track/5Q9nDWlFJzZKFnpl30dsns 
- Album: Don Cartagena
-
-~~~~~~~~~~~~~~~~
- Song number 18 
-~~~~~~~~~~~~~~~~
- Artist(s): Naughty By Nature 
- Song's name: We Could Do It 
- Preview link: https://open.spotify.com/track/3qhOxT5vV4xMEI90Qka5Am 
- Album: Nineteen Naughty Nine Nature's Fury
-
-~~~~~~~~~~~~~~~~
- Song number 19 
-~~~~~~~~~~~~~~~~
- Artist(s): Big Pun 
- Song's name: Punish Me (feat. Miss Jones) 
- Preview link: https://open.spotify.com/track/06kMGyiybLptwh9hkmhsV5 
- Album: Capital Punishment (Explicit Version)
-
-~~~~~~~~~~~~~~~~
- Song number 20 
-~~~~~~~~~~~~~~~~
- Artist(s): Big Pun 
- Song's name: Glamour Life (feat. Fat Joe, Triple Seis, Armageddon & Cuban Link) 
- Preview link: https://open.spotify.com/track/1JqyY1N64SmuGES3xcijPD 
- Album: Capital Punishment (Explicit Version)
-
-~~~~~~~~~~~~~~~~END LIRI SPOTIFY REQUEST 1555775380~~~~~~~~~~~~~~~~
-
-~~~~~~~~~~~~~~~~
- Song number 1 
-~~~~~~~~~~~~~~~~
- Artist(s): G. Sandhu 
- Song's name: Big Boss 
- Preview link: https://open.spotify.com/track/2e2Xy7u7ooHT1N1uDL5hs1 
- Album: The Big Boss
-
-~~~~~~~~~~~~~~~~
- Song number 2 
-~~~~~~~~~~~~~~~~
- Artist(s): Tippu 
- Song's name: Big Boss Anthem 
- Preview link: https://open.spotify.com/track/5wRqBCUZ6Obl1705eFqN0x 
- Album: Nannu Dochukunduvate (Original Motion Picture Soundtrack)
-
-~~~~~~~~~~~~~~~~
- Song number 3 
-~~~~~~~~~~~~~~~~
- Artist(s): YG 
- Song's name: BIG BANK (feat. 2 Chainz, Big Sean, Nicki Minaj) 
- Preview link: https://open.spotify.com/track/0ZNrc4kNeQYD9koZ3KvCsy 
- Album: STAY DANGEROUS
-
-~~~~~~~~~~~~~~~~
- Song number 4 
-~~~~~~~~~~~~~~~~
- Artist(s): Why Don't We 
- Song's name: Big Plans 
- Preview link: https://open.spotify.com/track/6Yx181fZzA0YE2EkUsYruq 
- Album: Big Plans
-
-~~~~~~~~~~~~~~~~
- Song number 5 
-~~~~~~~~~~~~~~~~
- Artist(s): Juice WRLD 
- Song's name: Big 
- Preview link: https://open.spotify.com/track/4rWC4tiO4NCwRHdh6vyu6b 
- Album: Death Race For Love
-
-~~~~~~~~~~~~~~~~
- Song number 6 
-~~~~~~~~~~~~~~~~
- Artist(s): Pranaay 
- Song's name: Get Ready To Fight Again (feat. Anand Bhaskar, Jatinder Singh, Siddharth Basrur, Big Dhillon) 
- Preview link: https://open.spotify.com/track/5rNa4JvSQIUVl34hDuA39v 
- Album: Baaghi 2
-
-~~~~~~~~~~~~~~~~
- Song number 7 
-~~~~~~~~~~~~~~~~
- Artist(s): The Notorious B.I.G. 
- Song's name: Big Poppa 
- Preview link: https://open.spotify.com/track/2g8HN35AnVGIk7B8yMucww 
- Album: Ready To Die The Remaster
-
-~~~~~~~~~~~~~~~~
- Song number 8 
-~~~~~~~~~~~~~~~~
- Artist(s): Post Malone 
- Song's name: Big Lie 
- Preview link: https://open.spotify.com/track/02opp1cycqiFNDpLd2o1J3 
- Album: Stoney (Deluxe)
-
-~~~~~~~~~~~~~~~~
- Song number 9 
-~~~~~~~~~~~~~~~~
- Artist(s): Big Sean 
- Song's name: Bounce Back 
- Preview link: https://open.spotify.com/track/0SGkqnVQo9KPytSri1H6cF 
- Album: I Decided.
-
-~~~~~~~~~~~~~~~~
- Song number 10 
-~~~~~~~~~~~~~~~~
- Artist(s): Megan Thee Stallion 
- Song's name: Big Ole Freak 
- Preview link: https://open.spotify.com/track/3YEbLhXRDPTtctnb3ddg8g 
- Album: Tina Snow
-
-~~~~~~~~~~~~~~~~
- Song number 11 
-~~~~~~~~~~~~~~~~
- Artist(s): The Noise Project 
- Song's name: Big Fan Dulled 
- Preview link: https://open.spotify.com/track/4GVIKZW6a4q0we4Ebc1FdP 
- Album: White Noise
-
-~~~~~~~~~~~~~~~~
- Song number 12 
-~~~~~~~~~~~~~~~~
- Artist(s): Wisin & Yandel 
- Song's name: Aullando 
- Preview link: https://open.spotify.com/track/7BuHdm4lQqcyG3qTwdkxus 
- Album: Los Campeones del Pueblo "The Big Leagues"
-
-~~~~~~~~~~~~~~~~
- Song number 13 
-~~~~~~~~~~~~~~~~
- Artist(s): Kendrick Lamar 
- Song's name: Big Shot (with Travis Scott) 
- Preview link: https://open.spotify.com/track/5cXg9IQS34FzLVdHhp7hu7 
- Album: Black Panther The Album Music From And Inspired By
-
-~~~~~~~~~~~~~~~~
- Song number 14 
-~~~~~~~~~~~~~~~~
- Artist(s): Fergie 
- Song's name: Big Girls Don't Cry (Personal) 
- Preview link: https://open.spotify.com/track/3Q4WeJmzxuDpzMu9QjQqbM 
- Album: The Dutchess
-
-~~~~~~~~~~~~~~~~
- Song number 15 
-~~~~~~~~~~~~~~~~
- Artist(s): MadeinTYO 
- Song's name: Skateboard P (feat. Big Sean) 
- Preview link: https://open.spotify.com/track/07pJdL0L9XDGW0HBj0rIS2 
- Album: Skateboard P (feat. Big Sean)
-
-~~~~~~~~~~~~~~~~
- Song number 16 
-~~~~~~~~~~~~~~~~
- Artist(s): Rich The Kid 
- Song's name: Two Cups (feat. Offset & Big Sean) 
- Preview link: https://open.spotify.com/track/7r62wx5N1cOQxYr6b0p2Bi 
- Album: The World Is Yours 2
-
-~~~~~~~~~~~~~~~~
- Song number 17 
-~~~~~~~~~~~~~~~~
- Artist(s): Jason Aldean 
- Song's name: Big Green Tractor 
- Preview link: https://open.spotify.com/track/4KAzYqfcijCSZa2P3etHoM 
- Album: Wide Open
-
-~~~~~~~~~~~~~~~~
- Song number 18 
-~~~~~~~~~~~~~~~~
- Artist(s): Big Sean 
- Song's name: I Don't Fuck With You 
- Preview link: https://open.spotify.com/track/7FYH5AW3bVfZHJIQpq3UOA 
- Album: Dark Sky Paradise
-
-~~~~~~~~~~~~~~~~
- Song number 19 
-~~~~~~~~~~~~~~~~
- Artist(s): Gunna 
- Song's name: Big Shot 
- Preview link: https://open.spotify.com/track/3QLvGx3PNgsyIjJOyIcuGh 
- Album: Drip or Drown 2
-
-~~~~~~~~~~~~~~~~
- Song number 20 
-~~~~~~~~~~~~~~~~
- Artist(s): Blueface 
- Song's name: Next Big Thing 
- Preview link: https://open.spotify.com/track/1skbBRLhikv2HatJlAIAzL 
- Album: Next Big Thing
-
-~~~~~~~~~~~~~~~~END LIRI SPOTIFY REQUEST 1555775444~~~~~~~~~~~~~~~~
-
-~~~~~~~~~~~~~~~~~~~~~~
- Event Artist: P!nk 
-~~~~~~~~~~~~~~~~~~~~~~
- Event Venue: Little Caesars Arena  
- Event Location: Detroit 
- Event Date & Time: Friday, April 26th 2019 
-
-~~~~~~~~~~~~~~~~END LIRI BAND REQUEST 1555775626~~~~~~~~~~~~~~~~
-
-~~~~~~~~~~~~~~~~~~~~~~
- Event Artist: P!nk 
-~~~~~~~~~~~~~~~~~~~~~~
- Event Venue: Little Caesars Arena  
- Event Location: Detroit 
- Event Date & Time: Friday, April 26th 2019 
-
-~~~~~~~~~~~~~~~~END LIRI BAND REQUEST 1555775760~~~~~~~~~~~~~~~~
-
-~~~~~~~~~~~~~~~~~~~~~~
- Event Artist: P!nk 
-~~~~~~~~~~~~~~~~~~~~~~
- Event Venue: Little Caesars Arena  
- Event Location: Detroit 
- Event Date & Time: Friday, April 26th 2019 
-
-~~~~~~~~~~~~~~~~END LIRI BAND REQUEST 1555775789~~~~~~~~~~~~~~~~
-
-~~~~~~~~~~~~~~~~~~~~~~
- Event Artist: P!nk 
-~~~~~~~~~~~~~~~~~~~~~~
- Event Venue: Little Caesars Arena  
- Event Location: Detroit 
- Event Date & Time: Friday, April 26th 2019 
-
-~~~~~~~~~~~~~~~~END LIRI BAND REQUEST 1555775965~~~~~~~~~~~~~~~~
-
-~~~~~~~~~~~~~~~~~~~~~~
- Event Artist: P!nk 
-~~~~~~~~~~~~~~~~~~~~~~
- Event Venue: Little Caesars Arena  
- Event Location: Detroit 
- Event Date & Time: Friday, April 26th 2019 
-
-~~~~~~~~~~~~~~~~END LIRI BAND REQUEST 1555776006~~~~~~~~~~~~~~~~
-
-~~~~~~~~~~~~~~~~~~~~~~
- Event Artist: P!nk 
-~~~~~~~~~~~~~~~~~~~~~~
- Event Venue: Little Caesars Arena  
- Event Location: Detroit 
- Event Date & Time: Friday, April 26th 2019 
-
-~~~~~~~~~~~~~~~~END LIRI BAND REQUEST 1555776033~~~~~~~~~~~~~~~~
-
-~~~~~~~~~~~~~~~~~~~~~~
- Event Artist: P!nk 
-~~~~~~~~~~~~~~~~~~~~~~
- Event Venue: Little Caesars Arena  
- Event Location: Detroit 
- Event Date & Time: Friday, April 26th 2019 
-
-~~~~~~~~~~~~~~~~END LIRI BAND REQUEST 1555776066~~~~~~~~~~~~~~~~
-
-~~~~~~~~~~~~~~~~~~~~~~
- Event Artist: P!nk 
-~~~~~~~~~~~~~~~~~~~~~~
- Event Venue: Little Caesars Arena  
- Event Location: Detroit 
- Event Date & Time: Friday, April 26th 2019 
-
-~~~~~~~~~~~~~~~~END LIRI BAND REQUEST 1555776167~~~~~~~~~~~~~~~~
-
-~~~~~~~~~~~~~~~~~~~~~~
- Event Artist: P!nk 
-~~~~~~~~~~~~~~~~~~~~~~
- Event Venue: Little Caesars Arena  
- Event Location: Detroit 
- Event Date & Time: Friday, April 26th 2019 
-
-~~~~~~~~~~~~~~~~END LIRI BAND REQUEST 1555776245~~~~~~~~~~~~~~~~
-
-~~~~~~~~~~~~~~~~~~~~~~
- Event Artist: P!nk 
-~~~~~~~~~~~~~~~~~~~~~~
- Event Venue: Little Caesars Arena  
- Event Location: Detroit 
- Event Date & Time: Friday, April 26th 2019 
-
-~~~~~~~~~~~~~~~~END LIRI BAND REQUEST 1555776308~~~~~~~~~~~~~~~~
-
-~~~~~~~~~~~~~~~~~~~~~~
- Event Artist: P!nk 
-~~~~~~~~~~~~~~~~~~~~~~
- Event Venue: Little Caesars Arena  
- Event Location: Detroit 
- Event Date & Time: Friday, April 26th 2019 
-
-~~~~~~~~~~~~~~~~END LIRI BAND REQUEST 1555776432~~~~~~~~~~~~~~~~
-
-~~~~~~~~~~~~~~~~~~~~~~
- Event Artist: P!nk 
-~~~~~~~~~~~~~~~~~~~~~~
- Event Venue: Little Caesars Arena  
- Event Location: Detroit 
- Event Date & Time: Friday, April 26th 2019 
-
-~~~~~~~~~~~~~~~~END LIRI BAND REQUEST 1555776555~~~~~~~~~~~~~~~~
-
-~~~~~~~~~~~~~~~~~~~~~~
- Event Artist: Big 
-~~~~~~~~~~~~~~~~~~~~~~
- Event Venue: Big Easy Social and Pleasure Club 
- Event Location: Houston 
- Event Date & Time: Wednesday, April 24th 2019 
-
-~~~~~~~~~~~~~~~~END LIRI BAND REQUEST 1555776569~~~~~~~~~~~~~~~~
-
-~~~~~~~~~~~~~~~~~~~~~~
- Event Artist: P!nk 
-~~~~~~~~~~~~~~~~~~~~~~
- Event Venue: Little Caesars Arena  
- Event Location: Detroit 
- Event Date & Time: Friday, April 26th 2019 
-
-~~~~~~~~~~~~~~~~END LIRI BAND REQUEST 1555777368~~~~~~~~~~~~~~~~
-
-~~~~~~~~~~~~~~~~~~~~~~
- Event Artist: P!nk 
-~~~~~~~~~~~~~~~~~~~~~~
- Event Venue: Little Caesars Arena  
- Event Location: Detroit 
- Event Date & Time: Friday, April 26th 2019 
-
-~~~~~~~~~~~~~~~~END LIRI BAND REQUEST 1555777716~~~~~~~~~~~~~~~~
-
-~~~~~~~~~~~~~~~~~~~~~~
- Event Artist: P!nk 
-~~~~~~~~~~~~~~~~~~~~~~
- Event Venue: Little Caesars Arena  
- Event Location: Detroit 
- Event Date & Time: Friday, April 26th 2019 
-
-~~~~~~~~~~~~~~~~END LIRI BAND REQUEST 1555777735~~~~~~~~~~~~~~~~
-
-~~~~~~~~~~~~~~~~~~~~~~
- Event Artist: P!nk 
-~~~~~~~~~~~~~~~~~~~~~~
- Event Venue: Little Caesars Arena  
- Event Location: Detroit 
- Event Date & Time: Friday, April 26th 2019 
-
-~~~~~~~~~~~~~~~~END LIRI BAND REQUEST 1555777917~~~~~~~~~~~~~~~~
-
-~~~~~~~~~~~~~~~~~~~~~~
- Event Artist: P!nk 
-~~~~~~~~~~~~~~~~~~~~~~
- Event Venue: Little Caesars Arena  
- Event Location: Detroit 
- Event Date & Time: Friday, April 26th 2019 
-
-~~~~~~~~~~~~~~~~END LIRI BAND REQUEST 1555778438~~~~~~~~~~~~~~~~
-
-~~~~~~~~~~~~~~~~~~~~~~
- Event Artist: P!nk 
-~~~~~~~~~~~~~~~~~~~~~~
- Event Venue: Little Caesars Arena  
- Event Location: Detroit 
- Event Date & Time: Friday, April 26th 2019 
-
-~~~~~~~~~~~~~~~~END LIRI BAND REQUEST 1555778461~~~~~~~~~~~~~~~~
-
-~~~~~~~~~~~~~~~~~~~~~~
- Event Artist: P!nk 
-~~~~~~~~~~~~~~~~~~~~~~
- Event Venue: Little Caesars Arena  
- Event Location: Detroit 
- Event Date & Time: Friday, April 26th 2019 
-
-~~~~~~~~~~~~~~~~END LIRI BAND REQUEST 1555778537~~~~~~~~~~~~~~~~
-
-~~~~~~~~~~~~~~~~~~~~~~
- Event Artist: P!nk 
-~~~~~~~~~~~~~~~~~~~~~~
- Event Venue: Little Caesars Arena  
- Event Location: Detroit 
- Event Date & Time: Friday, April 26th 2019 
-
-~~~~~~~~~~~~~~~~END LIRI BAND REQUEST 1555779191~~~~~~~~~~~~~~~~
-
-~~~~~~~~~~~~~~~~~~~~~~
- Event Artist: P!nk 
-~~~~~~~~~~~~~~~~~~~~~~
- Event Venue: Little Caesars Arena  
- Event Location: Detroit 
- Event Date & Time: Friday, April 26th 2019 
-
-~~~~~~~~~~~~~~~~END LIRI BAND REQUEST 1555779489~~~~~~~~~~~~~~~~
-
-~~~~~~~~~~~~~~~~~~~~~~
- Event Artist: P!nk 
-~~~~~~~~~~~~~~~~~~~~~~
- Event Venue: Little Caesars Arena  
- Event Location: Detroit 
- Event Date & Time: Friday, April 26th 2019 
-
-~~~~~~~~~~~~~~~~END LIRI BAND REQUEST 1555779597~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~END LIRI BAND REQUEST 1555817892~~~~~~~~~~~~~~~~
 
 ~~~~~~~~~~~~~~~~~~~~~~
  Event Artist: P!nk 
@@ -1919,7 +302,7 @@
  Event Location: Rio De Janeiro 
  Event Date & Time: Saturday, October 5th 2019 
 
-~~~~~~~~~~~~~~~~END LIRI BAND REQUEST 1555779710~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~END LIRI BAND REQUEST 1555817902~~~~~~~~~~~~~~~~
 
 ~~~~~~~~~~~~~~~~~~~~~~
  Event Artist: Big 
@@ -2047,6 +430,1611 @@
  Event Location: Houston 
  Event Date & Time: Wednesday, July 31st 2019 
 
-~~~~~~~~~~~~~~~~END LIRI BAND REQUEST 1555779724~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~END LIRI BAND REQUEST 1555817910~~~~~~~~~~~~~~~~
 
-~~~~~~~~~~~~~~~~END LIRI BAND REQUEST 1555779833~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~
+ Song number 1 
+~~~~~~~~~~~~~~~~
+ Artist(s): Chris Travis 
+ Song's name: Crunch Time 
+ Preview link: https://open.spotify.com/track/3xnbJVx4QqsOYip8Cn6OrN 
+ Album: Crunch Time
+
+~~~~~~~~~~~~~~~~
+ Song number 2 
+~~~~~~~~~~~~~~~~
+ Artist(s): CZARFACE 
+ Song's name: Captain Crunch 
+ Preview link: https://open.spotify.com/track/434tfsuXXgs7muK9KebirA 
+ Album: Czarface Meets Metal Face
+
+~~~~~~~~~~~~~~~~
+ Song number 3 
+~~~~~~~~~~~~~~~~
+ Artist(s): Laguna 
+ Song's name: Crunch 
+ Preview link: https://open.spotify.com/track/2UdnZu7KT4WUr7L5Auzg8Q 
+ Album: Soft Sounds
+
+~~~~~~~~~~~~~~~~
+ Song number 4 
+~~~~~~~~~~~~~~~~
+ Artist(s): Avo Louise 
+ Song's name: Crunch 
+ Preview link: https://open.spotify.com/track/2Ai4fd9cEFkAvZ9j8N8s44 
+ Album: Tiny Sounds
+
+~~~~~~~~~~~~~~~~
+ Song number 5 
+~~~~~~~~~~~~~~~~
+ Artist(s): Asian Doll 
+ Song's name: Crunch Time 
+ Preview link: https://open.spotify.com/track/6I9GJDeYj7zEFYEarYP1KJ 
+ Album: Doll Szn
+
+~~~~~~~~~~~~~~~~
+ Song number 6 
+~~~~~~~~~~~~~~~~
+ Artist(s): cupcakKe 
+ Song's name: Cinnamon Toast Crunch 
+ Preview link: https://open.spotify.com/track/08J2YadWGSyjFNMYHHDR18 
+ Album: Ephorize
+
+~~~~~~~~~~~~~~~~
+ Song number 7 
+~~~~~~~~~~~~~~~~
+ Artist(s): Curious Moon 
+ Song's name: Superman Crunch 
+ Preview link: https://open.spotify.com/track/7KnJHNziDyZmbDrFXLiaZj 
+ Album: Duck on a Rock
+
+~~~~~~~~~~~~~~~~
+ Song number 8 
+~~~~~~~~~~~~~~~~
+ Artist(s): Azizi Gibson 
+ Song's name: Crunch Time 
+ Preview link: https://open.spotify.com/track/5HxdHtXf707Nk714Y13j3L 
+ Album: Ghost in the Shell
+
+~~~~~~~~~~~~~~~~
+ Song number 9 
+~~~~~~~~~~~~~~~~
+ Artist(s): The Voidz 
+ Song's name: Crunch Punch 
+ Preview link: https://open.spotify.com/track/6LEsYKcwWDW5uWgHavoWoz 
+ Album: Tyranny
+
+~~~~~~~~~~~~~~~~
+ Song number 10 
+~~~~~~~~~~~~~~~~
+ Artist(s): Ev0lution 
+ Song's name: Please Don't Do Cocaine 
+ Preview link: https://open.spotify.com/track/45uFh8x4mdfXJnPixA7QCb 
+ Album: Please Don't Do Cocaine
+
+~~~~~~~~~~~~~~~~
+ Song number 11 
+~~~~~~~~~~~~~~~~
+ Artist(s): Stefflon Don 
+ Song's name: Crunch Time 
+ Preview link: https://open.spotify.com/track/7GucpqkJRENIN9F1LMlWhx 
+ Album: SECURE
+
+~~~~~~~~~~~~~~~~
+ Song number 12 
+~~~~~~~~~~~~~~~~
+ Artist(s): Fytch 
+ Song's name: Raindrops - Full Vocal Mix 
+ Preview link: https://open.spotify.com/track/3unsYB6RvtXYBhxL6c5G5S 
+ Album: Raindrops
+
+~~~~~~~~~~~~~~~~
+ Song number 13 
+~~~~~~~~~~~~~~~~
+ Artist(s): Like Me 
+ Song's name: Crunch 
+ Preview link: https://open.spotify.com/track/3ngASSXv5k9usyXMKuCX1O 
+ Album: White Noise Sleep
+
+~~~~~~~~~~~~~~~~
+ Song number 14 
+~~~~~~~~~~~~~~~~
+ Artist(s): DopeDrop 
+ Song's name: Crunch Time 
+ Preview link: https://open.spotify.com/track/7z2sZvUAsXezEBQ2XinWyB 
+ Album: Dirty Beats
+
+~~~~~~~~~~~~~~~~
+ Song number 15 
+~~~~~~~~~~~~~~~~
+ Artist(s): NOFX 
+ Song's name: The Malachi Crunch 
+ Preview link: https://open.spotify.com/track/4cuffk8u634Wt77GC27Wrb 
+ Album: Ribbed
+
+~~~~~~~~~~~~~~~~
+ Song number 16 
+~~~~~~~~~~~~~~~~
+ Artist(s): Kurt Stewart 
+ Song's name: crunch. 
+ Preview link: https://open.spotify.com/track/5VGrbQaccYhNfNXSZI16Dz 
+ Album: crunch.
+
+~~~~~~~~~~~~~~~~
+ Song number 17 
+~~~~~~~~~~~~~~~~
+ Artist(s): Eli Brown 
+ Song's name: Strung Out 
+ Preview link: https://open.spotify.com/track/4jIaYv7MiKIRydjMbUbYt2 
+ Album: Kingston Crunch EP
+
+~~~~~~~~~~~~~~~~
+ Song number 18 
+~~~~~~~~~~~~~~~~
+ Artist(s): D-CRUNCH 
+ Song's name: Palace 
+ Preview link: https://open.spotify.com/track/2JJnblIkXdVfvcM81bPRu3 
+ Album: 0806
+
+~~~~~~~~~~~~~~~~
+ Song number 19 
+~~~~~~~~~~~~~~~~
+ Artist(s): Monxx 
+ Song's name: Crunch Time 
+ Preview link: https://open.spotify.com/track/7pcCs2yJmTpOuoQ6pYNAJ8 
+ Album: Crunch Time - Single
+
+~~~~~~~~~~~~~~~~
+ Song number 20 
+~~~~~~~~~~~~~~~~
+ Artist(s): Dog Man 
+ Song's name: Crunch Munch 
+ Preview link: https://open.spotify.com/track/7I53VI3A1H4uS2pnwQ9Q8w 
+ Album: Dog Week
+
+~~~~~~~~~~~~~~~~END LIRI SPOTIFY REQUEST 1555817975~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~END LIRI SPOTIFY REQUEST 1555818002~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~END LIRI SPOTIFY REQUEST 1555818020~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~
+ Song number 1 
+~~~~~~~~~~~~~~~~
+ Artist(s): Chris Travis 
+ Song's name: Crunch Time 
+ Preview link: https://open.spotify.com/track/3xnbJVx4QqsOYip8Cn6OrN 
+ Album: Crunch Time
+
+~~~~~~~~~~~~~~~~
+ Song number 2 
+~~~~~~~~~~~~~~~~
+ Artist(s): CZARFACE 
+ Song's name: Captain Crunch 
+ Preview link: https://open.spotify.com/track/434tfsuXXgs7muK9KebirA 
+ Album: Czarface Meets Metal Face
+
+~~~~~~~~~~~~~~~~
+ Song number 3 
+~~~~~~~~~~~~~~~~
+ Artist(s): Laguna 
+ Song's name: Crunch 
+ Preview link: https://open.spotify.com/track/2UdnZu7KT4WUr7L5Auzg8Q 
+ Album: Soft Sounds
+
+~~~~~~~~~~~~~~~~
+ Song number 4 
+~~~~~~~~~~~~~~~~
+ Artist(s): Avo Louise 
+ Song's name: Crunch 
+ Preview link: https://open.spotify.com/track/2Ai4fd9cEFkAvZ9j8N8s44 
+ Album: Tiny Sounds
+
+~~~~~~~~~~~~~~~~
+ Song number 5 
+~~~~~~~~~~~~~~~~
+ Artist(s): Asian Doll 
+ Song's name: Crunch Time 
+ Preview link: https://open.spotify.com/track/6I9GJDeYj7zEFYEarYP1KJ 
+ Album: Doll Szn
+
+~~~~~~~~~~~~~~~~
+ Song number 6 
+~~~~~~~~~~~~~~~~
+ Artist(s): cupcakKe 
+ Song's name: Cinnamon Toast Crunch 
+ Preview link: https://open.spotify.com/track/08J2YadWGSyjFNMYHHDR18 
+ Album: Ephorize
+
+~~~~~~~~~~~~~~~~
+ Song number 7 
+~~~~~~~~~~~~~~~~
+ Artist(s): Curious Moon 
+ Song's name: Superman Crunch 
+ Preview link: https://open.spotify.com/track/7KnJHNziDyZmbDrFXLiaZj 
+ Album: Duck on a Rock
+
+~~~~~~~~~~~~~~~~
+ Song number 8 
+~~~~~~~~~~~~~~~~
+ Artist(s): Azizi Gibson 
+ Song's name: Crunch Time 
+ Preview link: https://open.spotify.com/track/5HxdHtXf707Nk714Y13j3L 
+ Album: Ghost in the Shell
+
+~~~~~~~~~~~~~~~~
+ Song number 9 
+~~~~~~~~~~~~~~~~
+ Artist(s): The Voidz 
+ Song's name: Crunch Punch 
+ Preview link: https://open.spotify.com/track/6LEsYKcwWDW5uWgHavoWoz 
+ Album: Tyranny
+
+~~~~~~~~~~~~~~~~
+ Song number 10 
+~~~~~~~~~~~~~~~~
+ Artist(s): Ev0lution 
+ Song's name: Please Don't Do Cocaine 
+ Preview link: https://open.spotify.com/track/45uFh8x4mdfXJnPixA7QCb 
+ Album: Please Don't Do Cocaine
+
+~~~~~~~~~~~~~~~~
+ Song number 11 
+~~~~~~~~~~~~~~~~
+ Artist(s): Stefflon Don 
+ Song's name: Crunch Time 
+ Preview link: https://open.spotify.com/track/7GucpqkJRENIN9F1LMlWhx 
+ Album: SECURE
+
+~~~~~~~~~~~~~~~~
+ Song number 12 
+~~~~~~~~~~~~~~~~
+ Artist(s): Fytch 
+ Song's name: Raindrops - Full Vocal Mix 
+ Preview link: https://open.spotify.com/track/3unsYB6RvtXYBhxL6c5G5S 
+ Album: Raindrops
+
+~~~~~~~~~~~~~~~~
+ Song number 13 
+~~~~~~~~~~~~~~~~
+ Artist(s): Like Me 
+ Song's name: Crunch 
+ Preview link: https://open.spotify.com/track/3ngASSXv5k9usyXMKuCX1O 
+ Album: White Noise Sleep
+
+~~~~~~~~~~~~~~~~
+ Song number 14 
+~~~~~~~~~~~~~~~~
+ Artist(s): DopeDrop 
+ Song's name: Crunch Time 
+ Preview link: https://open.spotify.com/track/7z2sZvUAsXezEBQ2XinWyB 
+ Album: Dirty Beats
+
+~~~~~~~~~~~~~~~~
+ Song number 15 
+~~~~~~~~~~~~~~~~
+ Artist(s): NOFX 
+ Song's name: The Malachi Crunch 
+ Preview link: https://open.spotify.com/track/4cuffk8u634Wt77GC27Wrb 
+ Album: Ribbed
+
+~~~~~~~~~~~~~~~~
+ Song number 16 
+~~~~~~~~~~~~~~~~
+ Artist(s): Kurt Stewart 
+ Song's name: crunch. 
+ Preview link: https://open.spotify.com/track/5VGrbQaccYhNfNXSZI16Dz 
+ Album: crunch.
+
+~~~~~~~~~~~~~~~~
+ Song number 17 
+~~~~~~~~~~~~~~~~
+ Artist(s): Eli Brown 
+ Song's name: Strung Out 
+ Preview link: https://open.spotify.com/track/4jIaYv7MiKIRydjMbUbYt2 
+ Album: Kingston Crunch EP
+
+~~~~~~~~~~~~~~~~
+ Song number 18 
+~~~~~~~~~~~~~~~~
+ Artist(s): D-CRUNCH 
+ Song's name: Palace 
+ Preview link: https://open.spotify.com/track/2JJnblIkXdVfvcM81bPRu3 
+ Album: 0806
+
+~~~~~~~~~~~~~~~~
+ Song number 19 
+~~~~~~~~~~~~~~~~
+ Artist(s): Monxx 
+ Song's name: Crunch Time 
+ Preview link: https://open.spotify.com/track/7pcCs2yJmTpOuoQ6pYNAJ8 
+ Album: Crunch Time - Single
+
+~~~~~~~~~~~~~~~~
+ Song number 20 
+~~~~~~~~~~~~~~~~
+ Artist(s): Dog Man 
+ Song's name: Crunch Munch 
+ Preview link: https://open.spotify.com/track/7I53VI3A1H4uS2pnwQ9Q8w 
+ Album: Dog Week
+
+~~~~~~~~~~~~~~~~END LIRI SPOTIFY REQUEST 1555818027~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~
+ Song number 1 
+~~~~~~~~~~~~~~~~
+ Artist(s): Rick Astley 
+ Song's name: Never Gonna Give You Up 
+ Preview link: https://open.spotify.com/track/7GhIk7Il098yCjg4BQjzvb 
+ Album: Whenever You Need Somebody
+
+~~~~~~~~~~~~~~~~
+ Song number 2 
+~~~~~~~~~~~~~~~~
+ Artist(s): Rick Astley 
+ Song's name: Never Gonna Give You Up 
+ Preview link: https://open.spotify.com/track/0FutrWIUM5Mg3434asiwkp 
+ Album: Platinum & Gold Collection
+
+~~~~~~~~~~~~~~~~
+ Song number 3 
+~~~~~~~~~~~~~~~~
+ Artist(s): Rick Astley 
+ Song's name: Never Gonna Give You Up - 7" Mix 
+ Preview link: https://open.spotify.com/track/4EZz8Byhbjk0tOKFJlCgPB 
+ Album: 80s 100 Hits
+
+~~~~~~~~~~~~~~~~
+ Song number 4 
+~~~~~~~~~~~~~~~~
+ Artist(s): Rick Astley 
+ Song's name: Never Gonna Give You Up 
+ Preview link: https://open.spotify.com/track/20UthavN6ATWdaZGdeRPuM 
+ Album: 80 Totally 80s Hits
+
+~~~~~~~~~~~~~~~~
+ Song number 5 
+~~~~~~~~~~~~~~~~
+ Artist(s): Rick Astley 
+ Song's name: Never Gonna Give You Up 
+ Preview link: https://open.spotify.com/track/1oQCO7vLjHfOiSW10Luahl 
+ Album: Football Songs
+
+~~~~~~~~~~~~~~~~
+ Song number 6 
+~~~~~~~~~~~~~~~~
+ Artist(s): Rick Astley 
+ Song's name: Never Gonna Give You Up 
+ Preview link: https://open.spotify.com/track/2cDqdu57U9mr348Iz0dsX4 
+ Album: Feel Good Friday
+
+~~~~~~~~~~~~~~~~
+ Song number 7 
+~~~~~~~~~~~~~~~~
+ Artist(s): Rick Astley 
+ Song's name: Never Gonna Give You Up 
+ Preview link: https://open.spotify.com/track/1aqwdQZ6xzuSgBFg3hRcNt 
+ Album: The Greatest Hits
+
+~~~~~~~~~~~~~~~~
+ Song number 8 
+~~~~~~~~~~~~~~~~
+ Artist(s): Rick Astley 
+ Song's name: Never Gonna Give You Up - 7" Mix 
+ Preview link: https://open.spotify.com/track/4pD16dZyIby2EG9HUMXyQ0 
+ Album: Happiness Forever
+
+~~~~~~~~~~~~~~~~
+ Song number 9 
+~~~~~~~~~~~~~~~~
+ Artist(s): Rick Astley 
+ Song's name: Never Gonna Give You Up 
+ Preview link: https://open.spotify.com/track/7erHKrGAhOfhHsg5pTAkjl 
+ Album: 3 Originals
+
+~~~~~~~~~~~~~~~~
+ Song number 10 
+~~~~~~~~~~~~~~~~
+ Artist(s): Rick Astley 
+ Song's name: Never Gonna Give You Up 
+ Preview link: https://open.spotify.com/track/3kmq7N9MTjl3OCxJWszdqw 
+ Album: Greatest Hits
+
+~~~~~~~~~~~~~~~~
+ Song number 11 
+~~~~~~~~~~~~~~~~
+ Artist(s): ERock 
+ Song's name: Never Gonna Give You Up By Rick Astley Meets Metal 
+ Preview link: https://open.spotify.com/track/06hxM9xim1eZ37uQQTr8zV 
+ Album: Meets Metal Vol. 1 (The Early Year)
+
+~~~~~~~~~~~~~~~~
+ Song number 12 
+~~~~~~~~~~~~~~~~
+ Artist(s): Rick Astley 
+ Song's name: Never Gonna Give You Up 
+ Preview link: https://open.spotify.com/track/4A2eDiBGdWZMiH1uWd0p1Y 
+ Album: Românticas Anos 80
+
+~~~~~~~~~~~~~~~~
+ Song number 13 
+~~~~~~~~~~~~~~~~
+ Artist(s): Rick Astley 
+ Song's name: Never Gonna Give You Up 
+ Preview link: https://open.spotify.com/track/1xd9f17sbQtux9ibEOAR7Y 
+ Album: 80s Dance
+
+~~~~~~~~~~~~~~~~
+ Song number 14 
+~~~~~~~~~~~~~~~~
+ Artist(s): Rick Astley 
+ Song's name: Never Gonna Give You Up 
+ Preview link: https://open.spotify.com/track/4JqB1zf7hfRFRn5lUDno4Z 
+ Album: 80s Hits
+
+~~~~~~~~~~~~~~~~
+ Song number 15 
+~~~~~~~~~~~~~~~~
+ Artist(s): Rick Astley 
+ Song's name: Never Gonna Give You Up 
+ Preview link: https://open.spotify.com/track/0vYKa2EJ9KzQayPCkr1OXh 
+ Album: The 80s
+
+~~~~~~~~~~~~~~~~
+ Song number 16 
+~~~~~~~~~~~~~~~~
+ Artist(s): Rick Astley 
+ Song's name: Never Gonna Give You Up - Escape to NY Mix 
+ Preview link: https://open.spotify.com/track/6i1HZrheheem5e7wBriGgi 
+ Album: The Hit Factory Ultimate Collection
+
+~~~~~~~~~~~~~~~~
+ Song number 17 
+~~~~~~~~~~~~~~~~
+ Artist(s): Stegosaurus Rex 
+ Song's name: Never Gonna Give You Up (Rick Astley) 
+ Preview link: https://open.spotify.com/track/3f6PJASeGKKYjPgnEhex61 
+ Album: The Dino Soars
+
+~~~~~~~~~~~~~~~~
+ Song number 18 
+~~~~~~~~~~~~~~~~
+ Artist(s): Hollywood 
+ Song's name: Never Gonna Give You Up 
+ Preview link: https://open.spotify.com/track/0i36HGzNbb4lf0OHKN95rR 
+ Album: Where Are You on the Ruby, Pt. 2
+
+~~~~~~~~~~~~~~~~
+ Song number 19 
+~~~~~~~~~~~~~~~~
+ Artist(s): Rick Astley 
+ Song's name: Never Gonna Give You Up 
+ Preview link: https://open.spotify.com/track/7bvXbMxXOn2ful29rHD4yB 
+ Album: The Hit Factory Ultimate Collection
+
+~~~~~~~~~~~~~~~~
+ Song number 20 
+~~~~~~~~~~~~~~~~
+ Artist(s): Rick Astley Tribute Band 
+ Song's name: Never Gonna Give You Up 
+ Preview link: https://open.spotify.com/track/2RZzlFzClrazUZovCqI7s8 
+ Album: World's Greatest 80's Disco - The Only 80's Disco Album You'll Ever Need (Deluxe Version)
+
+~~~~~~~~~~~~~~~~END LIRI SPOTIFY REQUEST 1555818039~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ Title of the movie: Big 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ Year the movie came out: 1988 
+ IMDB Rating: 7.3 
+ Rotten Tomatoes Rating: N/A 
+ Country where the movie was produced: USA 
+ Language of the movie: English 
+ Plot: After wishing to be made big, a teenage boy wakes the next morning to find himself mysteriously in the body of an adult. 
+ Actor(s) in the movie: Tom Hanks, Elizabeth Perkins, Robert Loggia, John Heard 
+
+~~~~~~~~~~~~~~~~END LIRI OMDB REQUEST 1555818073~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ Title of the movie: Big 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ Year the movie came out: 1988 
+ IMDB Rating: 7.3 
+ Rotten Tomatoes Rating: N/A 
+ Country where the movie was produced: USA 
+ Language of the movie: English 
+ Plot: After wishing to be made big, a teenage boy wakes the next morning to find himself mysteriously in the body of an adult. 
+ Actor(s) in the movie: Tom Hanks, Elizabeth Perkins, Robert Loggia, John Heard 
+
+~~~~~~~~~~~~~~~~END LIRI OMDB REQUEST 1555818093~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ Title of the movie: undefined 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ Year the movie came out: undefined 
+ IMDB Rating: undefined 
+ Rotten Tomatoes Rating: undefined 
+ Country where the movie was produced: undefined 
+ Language of the movie: undefined 
+ Plot: undefined 
+ Actor(s) in the movie: undefined 
+
+~~~~~~~~~~~~~~~~END LIRI OMDB REQUEST 1555818098~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ Title of the movie: Mr. Nobody 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ Year the movie came out: 2009 
+ IMDB Rating: 7.8 
+ Rotten Tomatoes Rating: N/A 
+ Country where the movie was produced: Belgium, Germany, Canada, France, USA, UK 
+ Language of the movie: English, Mohawk 
+ Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible. 
+ Actor(s) in the movie: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham 
+
+~~~~~~~~~~~~~~~~END LIRI OMDB REQUEST 1555818106~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ Title of the movie: undefined 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ Year the movie came out: undefined 
+ IMDB Rating: undefined 
+ Rotten Tomatoes Rating: undefined 
+ Country where the movie was produced: undefined 
+ Language of the movie: undefined 
+ Plot: undefined 
+ Actor(s) in the movie: undefined 
+
+~~~~~~~~~~~~~~~~END LIRI OMDB REQUEST 1555818200~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ Title of the movie: undefined 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ Year the movie came out: undefined 
+ IMDB Rating: undefined 
+ Rotten Tomatoes Rating: undefined 
+ Country where the movie was produced: undefined 
+ Language of the movie: undefined 
+ Plot: undefined 
+ Actor(s) in the movie: undefined 
+
+~~~~~~~~~~~~~~~~END LIRI OMDB REQUEST 1555818207~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ Title of the movie: Big 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ Year the movie came out: 1988 
+ IMDB Rating: 7.3 
+ Rotten Tomatoes Rating: N/A 
+ Country where the movie was produced: USA 
+ Language of the movie: English 
+ Plot: After wishing to be made big, a teenage boy wakes the next morning to find himself mysteriously in the body of an adult. 
+ Actor(s) in the movie: Tom Hanks, Elizabeth Perkins, Robert Loggia, John Heard 
+
+~~~~~~~~~~~~~~~~END LIRI OMDB REQUEST 1555818374~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ Title of the movie: Big 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ Year the movie came out: 1988 
+ IMDB Rating: 7.3 
+ Rotten Tomatoes Rating: N/A 
+ Country where the movie was produced: USA 
+ Language of the movie: English 
+ Plot: After wishing to be made big, a teenage boy wakes the next morning to find himself mysteriously in the body of an adult. 
+ Actor(s) in the movie: Tom Hanks, Elizabeth Perkins, Robert Loggia, John Heard 
+
+~~~~~~~~~~~~~~~~END LIRI OMDB REQUEST 1555818395~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ Title of the movie: Mr. Nobody 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ Year the movie came out: 2009 
+ IMDB Rating: 7.8 
+ Rotten Tomatoes Rating: N/A 
+ Country where the movie was produced: Belgium, Germany, Canada, France, USA, UK 
+ Language of the movie: English, Mohawk 
+ Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible. 
+ Actor(s) in the movie: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham 
+
+~~~~~~~~~~~~~~~~END LIRI OMDB REQUEST 1555818405~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~
+ Song number 1 
+~~~~~~~~~~~~~~~~
+ Artist(s): Rick Astley 
+ Song's name: Never Gonna Give You Up 
+ Preview link: https://open.spotify.com/track/7GhIk7Il098yCjg4BQjzvb 
+ Album: Whenever You Need Somebody
+
+~~~~~~~~~~~~~~~~
+ Song number 2 
+~~~~~~~~~~~~~~~~
+ Artist(s): Rick Astley 
+ Song's name: Never Gonna Give You Up 
+ Preview link: https://open.spotify.com/track/0FutrWIUM5Mg3434asiwkp 
+ Album: Platinum & Gold Collection
+
+~~~~~~~~~~~~~~~~
+ Song number 3 
+~~~~~~~~~~~~~~~~
+ Artist(s): Rick Astley 
+ Song's name: Never Gonna Give You Up - 7" Mix 
+ Preview link: https://open.spotify.com/track/4EZz8Byhbjk0tOKFJlCgPB 
+ Album: 80s 100 Hits
+
+~~~~~~~~~~~~~~~~
+ Song number 4 
+~~~~~~~~~~~~~~~~
+ Artist(s): Rick Astley 
+ Song's name: Never Gonna Give You Up 
+ Preview link: https://open.spotify.com/track/20UthavN6ATWdaZGdeRPuM 
+ Album: 80 Totally 80s Hits
+
+~~~~~~~~~~~~~~~~
+ Song number 5 
+~~~~~~~~~~~~~~~~
+ Artist(s): Rick Astley 
+ Song's name: Never Gonna Give You Up 
+ Preview link: https://open.spotify.com/track/1oQCO7vLjHfOiSW10Luahl 
+ Album: Football Songs
+
+~~~~~~~~~~~~~~~~
+ Song number 6 
+~~~~~~~~~~~~~~~~
+ Artist(s): Rick Astley 
+ Song's name: Never Gonna Give You Up 
+ Preview link: https://open.spotify.com/track/2cDqdu57U9mr348Iz0dsX4 
+ Album: Feel Good Friday
+
+~~~~~~~~~~~~~~~~
+ Song number 7 
+~~~~~~~~~~~~~~~~
+ Artist(s): Rick Astley 
+ Song's name: Never Gonna Give You Up 
+ Preview link: https://open.spotify.com/track/1aqwdQZ6xzuSgBFg3hRcNt 
+ Album: The Greatest Hits
+
+~~~~~~~~~~~~~~~~
+ Song number 8 
+~~~~~~~~~~~~~~~~
+ Artist(s): Rick Astley 
+ Song's name: Never Gonna Give You Up - 7" Mix 
+ Preview link: https://open.spotify.com/track/4pD16dZyIby2EG9HUMXyQ0 
+ Album: Happiness Forever
+
+~~~~~~~~~~~~~~~~
+ Song number 9 
+~~~~~~~~~~~~~~~~
+ Artist(s): Rick Astley 
+ Song's name: Never Gonna Give You Up 
+ Preview link: https://open.spotify.com/track/7erHKrGAhOfhHsg5pTAkjl 
+ Album: 3 Originals
+
+~~~~~~~~~~~~~~~~
+ Song number 10 
+~~~~~~~~~~~~~~~~
+ Artist(s): Rick Astley 
+ Song's name: Never Gonna Give You Up 
+ Preview link: https://open.spotify.com/track/3kmq7N9MTjl3OCxJWszdqw 
+ Album: Greatest Hits
+
+~~~~~~~~~~~~~~~~
+ Song number 11 
+~~~~~~~~~~~~~~~~
+ Artist(s): ERock 
+ Song's name: Never Gonna Give You Up By Rick Astley Meets Metal 
+ Preview link: https://open.spotify.com/track/06hxM9xim1eZ37uQQTr8zV 
+ Album: Meets Metal Vol. 1 (The Early Year)
+
+~~~~~~~~~~~~~~~~
+ Song number 12 
+~~~~~~~~~~~~~~~~
+ Artist(s): Rick Astley 
+ Song's name: Never Gonna Give You Up 
+ Preview link: https://open.spotify.com/track/4A2eDiBGdWZMiH1uWd0p1Y 
+ Album: Românticas Anos 80
+
+~~~~~~~~~~~~~~~~
+ Song number 13 
+~~~~~~~~~~~~~~~~
+ Artist(s): Rick Astley 
+ Song's name: Never Gonna Give You Up 
+ Preview link: https://open.spotify.com/track/1xd9f17sbQtux9ibEOAR7Y 
+ Album: 80s Dance
+
+~~~~~~~~~~~~~~~~
+ Song number 14 
+~~~~~~~~~~~~~~~~
+ Artist(s): Rick Astley 
+ Song's name: Never Gonna Give You Up 
+ Preview link: https://open.spotify.com/track/4JqB1zf7hfRFRn5lUDno4Z 
+ Album: 80s Hits
+
+~~~~~~~~~~~~~~~~
+ Song number 15 
+~~~~~~~~~~~~~~~~
+ Artist(s): Rick Astley 
+ Song's name: Never Gonna Give You Up 
+ Preview link: https://open.spotify.com/track/0vYKa2EJ9KzQayPCkr1OXh 
+ Album: The 80s
+
+~~~~~~~~~~~~~~~~
+ Song number 16 
+~~~~~~~~~~~~~~~~
+ Artist(s): Rick Astley 
+ Song's name: Never Gonna Give You Up - Escape to NY Mix 
+ Preview link: https://open.spotify.com/track/6i1HZrheheem5e7wBriGgi 
+ Album: The Hit Factory Ultimate Collection
+
+~~~~~~~~~~~~~~~~
+ Song number 17 
+~~~~~~~~~~~~~~~~
+ Artist(s): Stegosaurus Rex 
+ Song's name: Never Gonna Give You Up (Rick Astley) 
+ Preview link: https://open.spotify.com/track/3f6PJASeGKKYjPgnEhex61 
+ Album: The Dino Soars
+
+~~~~~~~~~~~~~~~~
+ Song number 18 
+~~~~~~~~~~~~~~~~
+ Artist(s): Hollywood 
+ Song's name: Never Gonna Give You Up 
+ Preview link: https://open.spotify.com/track/0i36HGzNbb4lf0OHKN95rR 
+ Album: Where Are You on the Ruby, Pt. 2
+
+~~~~~~~~~~~~~~~~
+ Song number 19 
+~~~~~~~~~~~~~~~~
+ Artist(s): Rick Astley 
+ Song's name: Never Gonna Give You Up 
+ Preview link: https://open.spotify.com/track/7bvXbMxXOn2ful29rHD4yB 
+ Album: The Hit Factory Ultimate Collection
+
+~~~~~~~~~~~~~~~~
+ Song number 20 
+~~~~~~~~~~~~~~~~
+ Artist(s): Rick Astley Tribute Band 
+ Song's name: Never Gonna Give You Up 
+ Preview link: https://open.spotify.com/track/2RZzlFzClrazUZovCqI7s8 
+ Album: World's Greatest 80's Disco - The Only 80's Disco Album You'll Ever Need (Deluxe Version)
+
+~~~~~~~~~~~~~~~~END LIRI SPOTIFY REQUEST 1555818436~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~
+ Song number 1 
+~~~~~~~~~~~~~~~~
+ Artist(s): Backstreet Boys 
+ Song's name: I Want It That Way 
+ Preview link: https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6 
+ Album: The Hits--Chapter One
+
+~~~~~~~~~~~~~~~~
+ Song number 2 
+~~~~~~~~~~~~~~~~
+ Artist(s): Backstreet Boys 
+ Song's name: I Want It That Way 
+ Preview link: https://open.spotify.com/track/47BBI51FKFwOMlIiX6m8ya 
+ Album: Millennium
+
+~~~~~~~~~~~~~~~~
+ Song number 3 
+~~~~~~~~~~~~~~~~
+ Artist(s): Anthem Lights 
+ Song's name: I Want It That Way 
+ Preview link: https://open.spotify.com/track/3Ww6kEWxLh4Ub4WPJ9hMtA 
+ Album: Covers Part IV
+
+~~~~~~~~~~~~~~~~
+ Song number 4 
+~~~~~~~~~~~~~~~~
+ Artist(s): Tyler and Mark 
+ Song's name: I Want It That Way 
+ Preview link: https://open.spotify.com/track/7k52T0b1v9ktm2gJwlO5yy 
+ Album: Beautiful Dreams
+
+~~~~~~~~~~~~~~~~
+ Song number 5 
+~~~~~~~~~~~~~~~~
+ Artist(s): Mick Jensen 
+ Song's name: I Want It That Way 
+ Preview link: https://open.spotify.com/track/0ympGdYdVlZ8zo6irdjMvd 
+ Album: I Want It That Way
+
+~~~~~~~~~~~~~~~~
+ Song number 6 
+~~~~~~~~~~~~~~~~
+ Artist(s): "Weird Al" Yankovic 
+ Song's name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys) 
+ Preview link: https://open.spotify.com/track/4vHb50VkxDzHYwLiHfWczK 
+ Album: Poodle Hat
+
+~~~~~~~~~~~~~~~~
+ Song number 7 
+~~~~~~~~~~~~~~~~
+ Artist(s): Dynamite Boy 
+ Song's name: I Want It That Way 
+ Preview link: https://open.spotify.com/track/0F5f29urvisi4TiwJOQZWN 
+ Album: Punk Goes Pop
+
+~~~~~~~~~~~~~~~~
+ Song number 8 
+~~~~~~~~~~~~~~~~
+ Artist(s): Backstreet Boys 
+ Song's name: I Want It That Way 
+ Preview link: https://open.spotify.com/track/1zCiqxhampG4dcC7HEqPu5 
+ Album: 90 Sweet 90s Hits!
+
+~~~~~~~~~~~~~~~~
+ Song number 9 
+~~~~~~~~~~~~~~~~
+ Artist(s): Backstreet Boys 
+ Song's name: I Want It That Way 
+ Preview link: https://open.spotify.com/track/2KMwtsWwL5QDtSpm814tju 
+ Album: NKOTBSB
+
+~~~~~~~~~~~~~~~~
+ Song number 10 
+~~~~~~~~~~~~~~~~
+ Artist(s): Steel Panther 
+ Song's name: I Want It That Way 
+ Preview link: https://open.spotify.com/track/0448cNUvZGCAlUpIPO5kdY 
+ Album: I Want It That Way
+
+~~~~~~~~~~~~~~~~
+ Song number 11 
+~~~~~~~~~~~~~~~~
+ Artist(s): Glee Cast 
+ Song's name: Bye Bye Bye / I Want It That Way (Glee Cast Version) 
+ Preview link: https://open.spotify.com/track/3t7m7AzV2ntuI9fIT6KREP 
+ Album: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+
+~~~~~~~~~~~~~~~~
+ Song number 12 
+~~~~~~~~~~~~~~~~
+ Artist(s): Boyce Avenue 
+ Song's name: I Want It That Way 
+ Preview link: https://open.spotify.com/track/16COzZ7jCVn3O8b8ZgviOx 
+ Album: Cover Sessions, Vol. 2
+
+~~~~~~~~~~~~~~~~
+ Song number 13 
+~~~~~~~~~~~~~~~~
+ Artist(s): Manuel Costa 
+ Song's name: I Want It That Way 
+ Preview link: https://open.spotify.com/track/4Sp4RxkWukxqJykl0ySNQi 
+ Album: I Want It That Way
+
+~~~~~~~~~~~~~~~~
+ Song number 14 
+~~~~~~~~~~~~~~~~
+ Artist(s): Scary Pockets 
+ Song's name: I Want It That Way 
+ Preview link: https://open.spotify.com/track/4IWQXV01Lp0wsXCXo09EBr 
+ Album: Nu Funk
+
+~~~~~~~~~~~~~~~~
+ Song number 15 
+~~~~~~~~~~~~~~~~
+ Artist(s): Scott Bradlee's Postmodern Jukebox 
+ Song's name: I Want It That Way 
+ Preview link: https://open.spotify.com/track/1Le3uYU5NU9cXXtYeSWnEM 
+ Album: Selfies on Kodachrome
+
+~~~~~~~~~~~~~~~~
+ Song number 16 
+~~~~~~~~~~~~~~~~
+ Artist(s): Kidz Bop Kids 
+ Song's name: I Want It That Way 
+ Preview link: https://open.spotify.com/track/1n1JZwSscsN0ESVPNv94cx 
+ Album: Kidz Bop
+
+~~~~~~~~~~~~~~~~
+ Song number 17 
+~~~~~~~~~~~~~~~~
+ Artist(s): Marcelo Rezende 
+ Song's name: I Want It That Way 
+ Preview link: https://open.spotify.com/track/5ZQAX4vaXBxANR1uCRvEsW 
+ Album: Ballads in Bossa (The Colors of Love Ballads)
+
+~~~~~~~~~~~~~~~~
+ Song number 18 
+~~~~~~~~~~~~~~~~
+ Artist(s): Yshop 
+ Song's name: I Want It That Way 
+ Preview link: https://open.spotify.com/track/0sRt44NXdLVqYeD2TAm1A5 
+ Album: I Want It That Way
+
+~~~~~~~~~~~~~~~~
+ Song number 19 
+~~~~~~~~~~~~~~~~
+ Artist(s): "Weird Al" Yankovic 
+ Song's name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys) 
+ Preview link: https://open.spotify.com/track/1vaico2C72imYowF4Kv04V 
+ Album: The Essential "Weird Al" Yankovic
+
+~~~~~~~~~~~~~~~~
+ Song number 20 
+~~~~~~~~~~~~~~~~
+ Artist(s): Backstreet Boys 
+ Song's name: I Want It That Way 
+ Preview link: https://open.spotify.com/track/75W4IDdKhHvRQZpaDx9YPg 
+ Album: NOW That's What I Call 90s Pop
+
+~~~~~~~~~~~~~~~~END LIRI SPOTIFY REQUEST 1555818638~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ Title of the movie: Mr. Nobody 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ Year the movie came out: 2009 
+ IMDB Rating: 7.8 
+ Rotten Tomatoes Rating: N/A 
+ Country where the movie was produced: Belgium, Germany, Canada, France, USA, UK 
+ Language of the movie: English, Mohawk 
+ Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible. 
+ Actor(s) in the movie: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham 
+
+~~~~~~~~~~~~~~~~END LIRI OMDB REQUEST 1555818648~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ Title of the movie: Big 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ Year the movie came out: 1988 
+ IMDB Rating: 7.3 
+ Rotten Tomatoes Rating: N/A 
+ Country where the movie was produced: USA 
+ Language of the movie: English 
+ Plot: After wishing to be made big, a teenage boy wakes the next morning to find himself mysteriously in the body of an adult. 
+ Actor(s) in the movie: Tom Hanks, Elizabeth Perkins, Robert Loggia, John Heard 
+
+~~~~~~~~~~~~~~~~END LIRI OMDB REQUEST 1555818656~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~
+ Song number 1 
+~~~~~~~~~~~~~~~~
+ Artist(s): Chris Travis 
+ Song's name: Crunch Time 
+ Preview link: https://open.spotify.com/track/3xnbJVx4QqsOYip8Cn6OrN 
+ Album: Crunch Time
+
+~~~~~~~~~~~~~~~~
+ Song number 2 
+~~~~~~~~~~~~~~~~
+ Artist(s): CZARFACE 
+ Song's name: Captain Crunch 
+ Preview link: https://open.spotify.com/track/434tfsuXXgs7muK9KebirA 
+ Album: Czarface Meets Metal Face
+
+~~~~~~~~~~~~~~~~
+ Song number 3 
+~~~~~~~~~~~~~~~~
+ Artist(s): Laguna 
+ Song's name: Crunch 
+ Preview link: https://open.spotify.com/track/2UdnZu7KT4WUr7L5Auzg8Q 
+ Album: Soft Sounds
+
+~~~~~~~~~~~~~~~~
+ Song number 4 
+~~~~~~~~~~~~~~~~
+ Artist(s): Avo Louise 
+ Song's name: Crunch 
+ Preview link: https://open.spotify.com/track/2Ai4fd9cEFkAvZ9j8N8s44 
+ Album: Tiny Sounds
+
+~~~~~~~~~~~~~~~~
+ Song number 5 
+~~~~~~~~~~~~~~~~
+ Artist(s): Asian Doll 
+ Song's name: Crunch Time 
+ Preview link: https://open.spotify.com/track/6I9GJDeYj7zEFYEarYP1KJ 
+ Album: Doll Szn
+
+~~~~~~~~~~~~~~~~
+ Song number 6 
+~~~~~~~~~~~~~~~~
+ Artist(s): cupcakKe 
+ Song's name: Cinnamon Toast Crunch 
+ Preview link: https://open.spotify.com/track/08J2YadWGSyjFNMYHHDR18 
+ Album: Ephorize
+
+~~~~~~~~~~~~~~~~
+ Song number 7 
+~~~~~~~~~~~~~~~~
+ Artist(s): Curious Moon 
+ Song's name: Superman Crunch 
+ Preview link: https://open.spotify.com/track/7KnJHNziDyZmbDrFXLiaZj 
+ Album: Duck on a Rock
+
+~~~~~~~~~~~~~~~~
+ Song number 8 
+~~~~~~~~~~~~~~~~
+ Artist(s): Azizi Gibson 
+ Song's name: Crunch Time 
+ Preview link: https://open.spotify.com/track/5HxdHtXf707Nk714Y13j3L 
+ Album: Ghost in the Shell
+
+~~~~~~~~~~~~~~~~
+ Song number 9 
+~~~~~~~~~~~~~~~~
+ Artist(s): The Voidz 
+ Song's name: Crunch Punch 
+ Preview link: https://open.spotify.com/track/6LEsYKcwWDW5uWgHavoWoz 
+ Album: Tyranny
+
+~~~~~~~~~~~~~~~~
+ Song number 10 
+~~~~~~~~~~~~~~~~
+ Artist(s): Ev0lution 
+ Song's name: Please Don't Do Cocaine 
+ Preview link: https://open.spotify.com/track/45uFh8x4mdfXJnPixA7QCb 
+ Album: Please Don't Do Cocaine
+
+~~~~~~~~~~~~~~~~
+ Song number 11 
+~~~~~~~~~~~~~~~~
+ Artist(s): Stefflon Don 
+ Song's name: Crunch Time 
+ Preview link: https://open.spotify.com/track/7GucpqkJRENIN9F1LMlWhx 
+ Album: SECURE
+
+~~~~~~~~~~~~~~~~
+ Song number 12 
+~~~~~~~~~~~~~~~~
+ Artist(s): Fytch 
+ Song's name: Raindrops - Full Vocal Mix 
+ Preview link: https://open.spotify.com/track/3unsYB6RvtXYBhxL6c5G5S 
+ Album: Raindrops
+
+~~~~~~~~~~~~~~~~
+ Song number 13 
+~~~~~~~~~~~~~~~~
+ Artist(s): Like Me 
+ Song's name: Crunch 
+ Preview link: https://open.spotify.com/track/3ngASSXv5k9usyXMKuCX1O 
+ Album: White Noise Sleep
+
+~~~~~~~~~~~~~~~~
+ Song number 14 
+~~~~~~~~~~~~~~~~
+ Artist(s): DopeDrop 
+ Song's name: Crunch Time 
+ Preview link: https://open.spotify.com/track/7z2sZvUAsXezEBQ2XinWyB 
+ Album: Dirty Beats
+
+~~~~~~~~~~~~~~~~
+ Song number 15 
+~~~~~~~~~~~~~~~~
+ Artist(s): NOFX 
+ Song's name: The Malachi Crunch 
+ Preview link: https://open.spotify.com/track/4cuffk8u634Wt77GC27Wrb 
+ Album: Ribbed
+
+~~~~~~~~~~~~~~~~
+ Song number 16 
+~~~~~~~~~~~~~~~~
+ Artist(s): Kurt Stewart 
+ Song's name: crunch. 
+ Preview link: https://open.spotify.com/track/5VGrbQaccYhNfNXSZI16Dz 
+ Album: crunch.
+
+~~~~~~~~~~~~~~~~
+ Song number 17 
+~~~~~~~~~~~~~~~~
+ Artist(s): Eli Brown 
+ Song's name: Strung Out 
+ Preview link: https://open.spotify.com/track/4jIaYv7MiKIRydjMbUbYt2 
+ Album: Kingston Crunch EP
+
+~~~~~~~~~~~~~~~~
+ Song number 18 
+~~~~~~~~~~~~~~~~
+ Artist(s): D-CRUNCH 
+ Song's name: Palace 
+ Preview link: https://open.spotify.com/track/2JJnblIkXdVfvcM81bPRu3 
+ Album: 0806
+
+~~~~~~~~~~~~~~~~
+ Song number 19 
+~~~~~~~~~~~~~~~~
+ Artist(s): Monxx 
+ Song's name: Crunch Time 
+ Preview link: https://open.spotify.com/track/7pcCs2yJmTpOuoQ6pYNAJ8 
+ Album: Crunch Time - Single
+
+~~~~~~~~~~~~~~~~
+ Song number 20 
+~~~~~~~~~~~~~~~~
+ Artist(s): Dog Man 
+ Song's name: Crunch Munch 
+ Preview link: https://open.spotify.com/track/7I53VI3A1H4uS2pnwQ9Q8w 
+ Album: Dog Week
+
+~~~~~~~~~~~~~~~~END LIRI SPOTIFY REQUEST 1555818664~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~END LIRI SPOTIFY REQUEST 1555818668~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~
+ Song number 1 
+~~~~~~~~~~~~~~~~
+ Artist(s): Backstreet Boys 
+ Song's name: I Want It That Way 
+ Preview link: https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6 
+ Album: The Hits--Chapter One
+
+~~~~~~~~~~~~~~~~
+ Song number 2 
+~~~~~~~~~~~~~~~~
+ Artist(s): Backstreet Boys 
+ Song's name: I Want It That Way 
+ Preview link: https://open.spotify.com/track/47BBI51FKFwOMlIiX6m8ya 
+ Album: Millennium
+
+~~~~~~~~~~~~~~~~
+ Song number 3 
+~~~~~~~~~~~~~~~~
+ Artist(s): Anthem Lights 
+ Song's name: I Want It That Way 
+ Preview link: https://open.spotify.com/track/3Ww6kEWxLh4Ub4WPJ9hMtA 
+ Album: Covers Part IV
+
+~~~~~~~~~~~~~~~~
+ Song number 4 
+~~~~~~~~~~~~~~~~
+ Artist(s): Tyler and Mark 
+ Song's name: I Want It That Way 
+ Preview link: https://open.spotify.com/track/7k52T0b1v9ktm2gJwlO5yy 
+ Album: Beautiful Dreams
+
+~~~~~~~~~~~~~~~~
+ Song number 5 
+~~~~~~~~~~~~~~~~
+ Artist(s): Mick Jensen 
+ Song's name: I Want It That Way 
+ Preview link: https://open.spotify.com/track/0ympGdYdVlZ8zo6irdjMvd 
+ Album: I Want It That Way
+
+~~~~~~~~~~~~~~~~
+ Song number 6 
+~~~~~~~~~~~~~~~~
+ Artist(s): "Weird Al" Yankovic 
+ Song's name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys) 
+ Preview link: https://open.spotify.com/track/4vHb50VkxDzHYwLiHfWczK 
+ Album: Poodle Hat
+
+~~~~~~~~~~~~~~~~
+ Song number 7 
+~~~~~~~~~~~~~~~~
+ Artist(s): Dynamite Boy 
+ Song's name: I Want It That Way 
+ Preview link: https://open.spotify.com/track/0F5f29urvisi4TiwJOQZWN 
+ Album: Punk Goes Pop
+
+~~~~~~~~~~~~~~~~
+ Song number 8 
+~~~~~~~~~~~~~~~~
+ Artist(s): Backstreet Boys 
+ Song's name: I Want It That Way 
+ Preview link: https://open.spotify.com/track/1zCiqxhampG4dcC7HEqPu5 
+ Album: 90 Sweet 90s Hits!
+
+~~~~~~~~~~~~~~~~
+ Song number 9 
+~~~~~~~~~~~~~~~~
+ Artist(s): Backstreet Boys 
+ Song's name: I Want It That Way 
+ Preview link: https://open.spotify.com/track/2KMwtsWwL5QDtSpm814tju 
+ Album: NKOTBSB
+
+~~~~~~~~~~~~~~~~
+ Song number 10 
+~~~~~~~~~~~~~~~~
+ Artist(s): Steel Panther 
+ Song's name: I Want It That Way 
+ Preview link: https://open.spotify.com/track/0448cNUvZGCAlUpIPO5kdY 
+ Album: I Want It That Way
+
+~~~~~~~~~~~~~~~~
+ Song number 11 
+~~~~~~~~~~~~~~~~
+ Artist(s): Glee Cast 
+ Song's name: Bye Bye Bye / I Want It That Way (Glee Cast Version) 
+ Preview link: https://open.spotify.com/track/3t7m7AzV2ntuI9fIT6KREP 
+ Album: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+
+~~~~~~~~~~~~~~~~
+ Song number 12 
+~~~~~~~~~~~~~~~~
+ Artist(s): Boyce Avenue 
+ Song's name: I Want It That Way 
+ Preview link: https://open.spotify.com/track/16COzZ7jCVn3O8b8ZgviOx 
+ Album: Cover Sessions, Vol. 2
+
+~~~~~~~~~~~~~~~~
+ Song number 13 
+~~~~~~~~~~~~~~~~
+ Artist(s): Manuel Costa 
+ Song's name: I Want It That Way 
+ Preview link: https://open.spotify.com/track/4Sp4RxkWukxqJykl0ySNQi 
+ Album: I Want It That Way
+
+~~~~~~~~~~~~~~~~
+ Song number 14 
+~~~~~~~~~~~~~~~~
+ Artist(s): Scary Pockets 
+ Song's name: I Want It That Way 
+ Preview link: https://open.spotify.com/track/4IWQXV01Lp0wsXCXo09EBr 
+ Album: Nu Funk
+
+~~~~~~~~~~~~~~~~
+ Song number 15 
+~~~~~~~~~~~~~~~~
+ Artist(s): Scott Bradlee's Postmodern Jukebox 
+ Song's name: I Want It That Way 
+ Preview link: https://open.spotify.com/track/1Le3uYU5NU9cXXtYeSWnEM 
+ Album: Selfies on Kodachrome
+
+~~~~~~~~~~~~~~~~
+ Song number 16 
+~~~~~~~~~~~~~~~~
+ Artist(s): Kidz Bop Kids 
+ Song's name: I Want It That Way 
+ Preview link: https://open.spotify.com/track/1n1JZwSscsN0ESVPNv94cx 
+ Album: Kidz Bop
+
+~~~~~~~~~~~~~~~~
+ Song number 17 
+~~~~~~~~~~~~~~~~
+ Artist(s): Marcelo Rezende 
+ Song's name: I Want It That Way 
+ Preview link: https://open.spotify.com/track/5ZQAX4vaXBxANR1uCRvEsW 
+ Album: Ballads in Bossa (The Colors of Love Ballads)
+
+~~~~~~~~~~~~~~~~
+ Song number 18 
+~~~~~~~~~~~~~~~~
+ Artist(s): Yshop 
+ Song's name: I Want It That Way 
+ Preview link: https://open.spotify.com/track/0sRt44NXdLVqYeD2TAm1A5 
+ Album: I Want It That Way
+
+~~~~~~~~~~~~~~~~
+ Song number 19 
+~~~~~~~~~~~~~~~~
+ Artist(s): "Weird Al" Yankovic 
+ Song's name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys) 
+ Preview link: https://open.spotify.com/track/1vaico2C72imYowF4Kv04V 
+ Album: The Essential "Weird Al" Yankovic
+
+~~~~~~~~~~~~~~~~
+ Song number 20 
+~~~~~~~~~~~~~~~~
+ Artist(s): Backstreet Boys 
+ Song's name: I Want It That Way 
+ Preview link: https://open.spotify.com/track/75W4IDdKhHvRQZpaDx9YPg 
+ Album: NOW That's What I Call 90s Pop
+
+~~~~~~~~~~~~~~~~END LIRI SPOTIFY REQUEST 1555818697~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~
+ Song number 1 
+~~~~~~~~~~~~~~~~
+ Artist(s): Backstreet Boys 
+ Song's name: I Want It That Way 
+ Preview link: https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6 
+ Album: The Hits--Chapter One
+
+~~~~~~~~~~~~~~~~
+ Song number 2 
+~~~~~~~~~~~~~~~~
+ Artist(s): Backstreet Boys 
+ Song's name: I Want It That Way 
+ Preview link: https://open.spotify.com/track/47BBI51FKFwOMlIiX6m8ya 
+ Album: Millennium
+
+~~~~~~~~~~~~~~~~
+ Song number 3 
+~~~~~~~~~~~~~~~~
+ Artist(s): Anthem Lights 
+ Song's name: I Want It That Way 
+ Preview link: https://open.spotify.com/track/3Ww6kEWxLh4Ub4WPJ9hMtA 
+ Album: Covers Part IV
+
+~~~~~~~~~~~~~~~~
+ Song number 4 
+~~~~~~~~~~~~~~~~
+ Artist(s): Tyler and Mark 
+ Song's name: I Want It That Way 
+ Preview link: https://open.spotify.com/track/7k52T0b1v9ktm2gJwlO5yy 
+ Album: Beautiful Dreams
+
+~~~~~~~~~~~~~~~~
+ Song number 5 
+~~~~~~~~~~~~~~~~
+ Artist(s): Mick Jensen 
+ Song's name: I Want It That Way 
+ Preview link: https://open.spotify.com/track/0ympGdYdVlZ8zo6irdjMvd 
+ Album: I Want It That Way
+
+~~~~~~~~~~~~~~~~
+ Song number 6 
+~~~~~~~~~~~~~~~~
+ Artist(s): "Weird Al" Yankovic 
+ Song's name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys) 
+ Preview link: https://open.spotify.com/track/4vHb50VkxDzHYwLiHfWczK 
+ Album: Poodle Hat
+
+~~~~~~~~~~~~~~~~
+ Song number 7 
+~~~~~~~~~~~~~~~~
+ Artist(s): Dynamite Boy 
+ Song's name: I Want It That Way 
+ Preview link: https://open.spotify.com/track/0F5f29urvisi4TiwJOQZWN 
+ Album: Punk Goes Pop
+
+~~~~~~~~~~~~~~~~
+ Song number 8 
+~~~~~~~~~~~~~~~~
+ Artist(s): Backstreet Boys 
+ Song's name: I Want It That Way 
+ Preview link: https://open.spotify.com/track/1zCiqxhampG4dcC7HEqPu5 
+ Album: 90 Sweet 90s Hits!
+
+~~~~~~~~~~~~~~~~
+ Song number 9 
+~~~~~~~~~~~~~~~~
+ Artist(s): Backstreet Boys 
+ Song's name: I Want It That Way 
+ Preview link: https://open.spotify.com/track/2KMwtsWwL5QDtSpm814tju 
+ Album: NKOTBSB
+
+~~~~~~~~~~~~~~~~
+ Song number 10 
+~~~~~~~~~~~~~~~~
+ Artist(s): Steel Panther 
+ Song's name: I Want It That Way 
+ Preview link: https://open.spotify.com/track/0448cNUvZGCAlUpIPO5kdY 
+ Album: I Want It That Way
+
+~~~~~~~~~~~~~~~~
+ Song number 11 
+~~~~~~~~~~~~~~~~
+ Artist(s): Glee Cast 
+ Song's name: Bye Bye Bye / I Want It That Way (Glee Cast Version) 
+ Preview link: https://open.spotify.com/track/3t7m7AzV2ntuI9fIT6KREP 
+ Album: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+
+~~~~~~~~~~~~~~~~
+ Song number 12 
+~~~~~~~~~~~~~~~~
+ Artist(s): Boyce Avenue 
+ Song's name: I Want It That Way 
+ Preview link: https://open.spotify.com/track/16COzZ7jCVn3O8b8ZgviOx 
+ Album: Cover Sessions, Vol. 2
+
+~~~~~~~~~~~~~~~~
+ Song number 13 
+~~~~~~~~~~~~~~~~
+ Artist(s): Manuel Costa 
+ Song's name: I Want It That Way 
+ Preview link: https://open.spotify.com/track/4Sp4RxkWukxqJykl0ySNQi 
+ Album: I Want It That Way
+
+~~~~~~~~~~~~~~~~
+ Song number 14 
+~~~~~~~~~~~~~~~~
+ Artist(s): Scary Pockets 
+ Song's name: I Want It That Way 
+ Preview link: https://open.spotify.com/track/4IWQXV01Lp0wsXCXo09EBr 
+ Album: Nu Funk
+
+~~~~~~~~~~~~~~~~
+ Song number 15 
+~~~~~~~~~~~~~~~~
+ Artist(s): Scott Bradlee's Postmodern Jukebox 
+ Song's name: I Want It That Way 
+ Preview link: https://open.spotify.com/track/1Le3uYU5NU9cXXtYeSWnEM 
+ Album: Selfies on Kodachrome
+
+~~~~~~~~~~~~~~~~
+ Song number 16 
+~~~~~~~~~~~~~~~~
+ Artist(s): Kidz Bop Kids 
+ Song's name: I Want It That Way 
+ Preview link: https://open.spotify.com/track/1n1JZwSscsN0ESVPNv94cx 
+ Album: Kidz Bop
+
+~~~~~~~~~~~~~~~~
+ Song number 17 
+~~~~~~~~~~~~~~~~
+ Artist(s): Marcelo Rezende 
+ Song's name: I Want It That Way 
+ Preview link: https://open.spotify.com/track/5ZQAX4vaXBxANR1uCRvEsW 
+ Album: Ballads in Bossa (The Colors of Love Ballads)
+
+~~~~~~~~~~~~~~~~
+ Song number 18 
+~~~~~~~~~~~~~~~~
+ Artist(s): Yshop 
+ Song's name: I Want It That Way 
+ Preview link: https://open.spotify.com/track/0sRt44NXdLVqYeD2TAm1A5 
+ Album: I Want It That Way
+
+~~~~~~~~~~~~~~~~
+ Song number 19 
+~~~~~~~~~~~~~~~~
+ Artist(s): "Weird Al" Yankovic 
+ Song's name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys) 
+ Preview link: https://open.spotify.com/track/1vaico2C72imYowF4Kv04V 
+ Album: The Essential "Weird Al" Yankovic
+
+~~~~~~~~~~~~~~~~
+ Song number 20 
+~~~~~~~~~~~~~~~~
+ Artist(s): Backstreet Boys 
+ Song's name: I Want It That Way 
+ Preview link: https://open.spotify.com/track/75W4IDdKhHvRQZpaDx9YPg 
+ Album: NOW That's What I Call 90s Pop
+
+~~~~~~~~~~~~~~~~END LIRI SPOTIFY REQUEST 1555818726~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~
+ Song number 1 
+~~~~~~~~~~~~~~~~
+ Artist(s): Chris Travis 
+ Song's name: Crunch Time 
+ Preview link: https://open.spotify.com/track/3xnbJVx4QqsOYip8Cn6OrN 
+ Album: Crunch Time
+
+~~~~~~~~~~~~~~~~
+ Song number 2 
+~~~~~~~~~~~~~~~~
+ Artist(s): CZARFACE 
+ Song's name: Captain Crunch 
+ Preview link: https://open.spotify.com/track/434tfsuXXgs7muK9KebirA 
+ Album: Czarface Meets Metal Face
+
+~~~~~~~~~~~~~~~~
+ Song number 3 
+~~~~~~~~~~~~~~~~
+ Artist(s): Laguna 
+ Song's name: Crunch 
+ Preview link: https://open.spotify.com/track/2UdnZu7KT4WUr7L5Auzg8Q 
+ Album: Soft Sounds
+
+~~~~~~~~~~~~~~~~
+ Song number 4 
+~~~~~~~~~~~~~~~~
+ Artist(s): Avo Louise 
+ Song's name: Crunch 
+ Preview link: https://open.spotify.com/track/2Ai4fd9cEFkAvZ9j8N8s44 
+ Album: Tiny Sounds
+
+~~~~~~~~~~~~~~~~
+ Song number 5 
+~~~~~~~~~~~~~~~~
+ Artist(s): Asian Doll 
+ Song's name: Crunch Time 
+ Preview link: https://open.spotify.com/track/6I9GJDeYj7zEFYEarYP1KJ 
+ Album: Doll Szn
+
+~~~~~~~~~~~~~~~~
+ Song number 6 
+~~~~~~~~~~~~~~~~
+ Artist(s): cupcakKe 
+ Song's name: Cinnamon Toast Crunch 
+ Preview link: https://open.spotify.com/track/08J2YadWGSyjFNMYHHDR18 
+ Album: Ephorize
+
+~~~~~~~~~~~~~~~~
+ Song number 7 
+~~~~~~~~~~~~~~~~
+ Artist(s): Curious Moon 
+ Song's name: Superman Crunch 
+ Preview link: https://open.spotify.com/track/7KnJHNziDyZmbDrFXLiaZj 
+ Album: Duck on a Rock
+
+~~~~~~~~~~~~~~~~
+ Song number 8 
+~~~~~~~~~~~~~~~~
+ Artist(s): Azizi Gibson 
+ Song's name: Crunch Time 
+ Preview link: https://open.spotify.com/track/5HxdHtXf707Nk714Y13j3L 
+ Album: Ghost in the Shell
+
+~~~~~~~~~~~~~~~~
+ Song number 9 
+~~~~~~~~~~~~~~~~
+ Artist(s): The Voidz 
+ Song's name: Crunch Punch 
+ Preview link: https://open.spotify.com/track/6LEsYKcwWDW5uWgHavoWoz 
+ Album: Tyranny
+
+~~~~~~~~~~~~~~~~
+ Song number 10 
+~~~~~~~~~~~~~~~~
+ Artist(s): Ev0lution 
+ Song's name: Please Don't Do Cocaine 
+ Preview link: https://open.spotify.com/track/45uFh8x4mdfXJnPixA7QCb 
+ Album: Please Don't Do Cocaine
+
+~~~~~~~~~~~~~~~~
+ Song number 11 
+~~~~~~~~~~~~~~~~
+ Artist(s): Stefflon Don 
+ Song's name: Crunch Time 
+ Preview link: https://open.spotify.com/track/7GucpqkJRENIN9F1LMlWhx 
+ Album: SECURE
+
+~~~~~~~~~~~~~~~~
+ Song number 12 
+~~~~~~~~~~~~~~~~
+ Artist(s): Fytch 
+ Song's name: Raindrops - Full Vocal Mix 
+ Preview link: https://open.spotify.com/track/3unsYB6RvtXYBhxL6c5G5S 
+ Album: Raindrops
+
+~~~~~~~~~~~~~~~~
+ Song number 13 
+~~~~~~~~~~~~~~~~
+ Artist(s): Like Me 
+ Song's name: Crunch 
+ Preview link: https://open.spotify.com/track/3ngASSXv5k9usyXMKuCX1O 
+ Album: White Noise Sleep
+
+~~~~~~~~~~~~~~~~
+ Song number 14 
+~~~~~~~~~~~~~~~~
+ Artist(s): DopeDrop 
+ Song's name: Crunch Time 
+ Preview link: https://open.spotify.com/track/7z2sZvUAsXezEBQ2XinWyB 
+ Album: Dirty Beats
+
+~~~~~~~~~~~~~~~~
+ Song number 15 
+~~~~~~~~~~~~~~~~
+ Artist(s): NOFX 
+ Song's name: The Malachi Crunch 
+ Preview link: https://open.spotify.com/track/4cuffk8u634Wt77GC27Wrb 
+ Album: Ribbed
+
+~~~~~~~~~~~~~~~~
+ Song number 16 
+~~~~~~~~~~~~~~~~
+ Artist(s): Kurt Stewart 
+ Song's name: crunch. 
+ Preview link: https://open.spotify.com/track/5VGrbQaccYhNfNXSZI16Dz 
+ Album: crunch.
+
+~~~~~~~~~~~~~~~~
+ Song number 17 
+~~~~~~~~~~~~~~~~
+ Artist(s): Eli Brown 
+ Song's name: Strung Out 
+ Preview link: https://open.spotify.com/track/4jIaYv7MiKIRydjMbUbYt2 
+ Album: Kingston Crunch EP
+
+~~~~~~~~~~~~~~~~
+ Song number 18 
+~~~~~~~~~~~~~~~~
+ Artist(s): D-CRUNCH 
+ Song's name: Palace 
+ Preview link: https://open.spotify.com/track/2JJnblIkXdVfvcM81bPRu3 
+ Album: 0806
+
+~~~~~~~~~~~~~~~~
+ Song number 19 
+~~~~~~~~~~~~~~~~
+ Artist(s): Monxx 
+ Song's name: Crunch Time 
+ Preview link: https://open.spotify.com/track/7pcCs2yJmTpOuoQ6pYNAJ8 
+ Album: Crunch Time - Single
+
+~~~~~~~~~~~~~~~~
+ Song number 20 
+~~~~~~~~~~~~~~~~
+ Artist(s): Dog Man 
+ Song's name: Crunch Munch 
+ Preview link: https://open.spotify.com/track/7I53VI3A1H4uS2pnwQ9Q8w 
+ Album: Dog Week
+
+~~~~~~~~~~~~~~~~END LIRI SPOTIFY REQUEST 1555818792~~~~~~~~~~~~~~~~

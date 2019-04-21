@@ -12,10 +12,10 @@ let args = process.argv.slice(3).join(' ');
 
 liri(command, args);
 
-function liri(command, arg) {
+function liri(command, args) {
   switch (command) {
     case 'concert-this':
-      bandMe(arg);
+      bandMe(args);
       break;
 
     case 'spotify-this-song':
@@ -97,13 +97,13 @@ function movieMe(arg) {
       '&y=&plot=short&tomatoes=true&apikey=trilogy';
   }
   // This line is just to help us debug against the actual URL.
-  console.log(queryUrl);
+  // console.log(queryUrl);
 
   axios
     .get(queryUrl)
     .then(function(response) {
       // console.log(JSON.stringify(response.data, null, 2));
-
+      if (response.data.Title !== undefined){
       let title = response.data.Title;
       let year = response.data.Year;
       let rating = response.data.imdbRating;
@@ -133,6 +133,11 @@ function movieMe(arg) {
         'liri-log.txt',
         `\r\n~~~~~~~~~~~~~~~~END LIRI OMDB REQUEST ${now}~~~~~~~~~~~~~~~~\r\n`
       );
+      }
+      else {
+        console.log('No results found.');
+        
+      }
     })
     .catch(function(err) {
       console.log(err);
