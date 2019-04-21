@@ -91,7 +91,7 @@ function movieMe(arg) {
     // Then run a request with axios to the OMDB API with the movie specified
     var queryUrl = `http://www.omdbapi.com/?t=${arg}&y=&plot=short&tomatoes=true&apikey=trilogy`;
   } else {
-    var queryUrl =
+    var queryUrl = 
       'http://www.omdbapi.com/?t=' +
       'mr+nobody' +
       '&y=&plot=short&tomatoes=true&apikey=trilogy';
@@ -180,11 +180,11 @@ function bandMe(arg) {
           let time = moment(venues[i].datetime).format('dddd, MMMM Do YYYY');
           // if (venues.venue) {
           console.log('~~~~~~~~~~~~~~~~~~~~~~');
-          console.log('Event Artist: ' + artist);
+          console.log('Event Artist: ', artist);
           console.log('~~~~~~~~~~~~~~~~~~~~~~');
-          console.log('Event Venue: ' + venue);
-          console.log('Event Location: ' + location);
-          console.log('Event Date & Time: ' + time);
+          console.log('Event Venue: ', venue);
+          console.log('Event Location: ', location);
+          console.log('Event Date & Time: ', time);
 
           fs.appendFileSync(
             'liri-log.txt',
