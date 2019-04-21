@@ -25,18 +25,18 @@ Make it so liri.js can take in one of the following commands:
 
 ## spotify-this-song [song name]
     * This will show the following information about the song in your terminal/bash window
-'''
+```
         * Artist(s)
         * The song's name
         * A preview link of the song from Spotify
         * The album that the song is from
-'''
+```
     * if no song is provided then your program will default to
         * "Never Gonna Give You Up" by Sir Richard Astley
 
 ## movie-this [movie-name]
     * This will output the following information to your terminal/bash window:
-'''
+```
         * Title of the movie.
         * Year the movie came out.
         * IMDB Rating of the movie.
@@ -46,7 +46,7 @@ Make it so liri.js can take in one of the following commands:
         * Actors in the movie.
         * Rotten Tomatoes Rating.
         * Rotten Tomatoes URL.
-'''
+```
     * If the user doesn't type a movie in, the program will output data for the movie 'Mr. Nobody.'
 
 ## do-what-it-says
