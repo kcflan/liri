@@ -2038,3 +2038,173 @@
  Album: Dog Week
 
 ~~~~~~~~~~~~~~~~END LIRI SPOTIFY REQUEST 1555818792~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~
+ Song number 1 
+~~~~~~~~~~~~~~~~
+ Artist(s): Lil Baby 
+ Song's name: Drip Too Hard (Lil Baby & Gunna) 
+ Preview link: https://open.spotify.com/track/78QR3Wp35dqAhFEc2qAGjE 
+ Album: Drip Harder
+
+~~~~~~~~~~~~~~~~
+ Song number 2 
+~~~~~~~~~~~~~~~~
+ Artist(s): Achu 
+ Song's name: Baby Baby 
+ Preview link: https://open.spotify.com/track/76WsUuIt9jGEqSdLHovP0p 
+ Album: Urumeen (Original Motion Picture Soundtrack)
+
+~~~~~~~~~~~~~~~~
+ Song number 3 
+~~~~~~~~~~~~~~~~
+ Artist(s): Yuvan Shankar Raja 
+ Song's name: Rowdy Baby 
+ Preview link: https://open.spotify.com/track/0Tm5ER6IrGfmW0yZ5lkQli 
+ Album: Rowdy Baby (From "Maari 2" Original Motion Picture Soundtrack)
+
+~~~~~~~~~~~~~~~~
+ Song number 4 
+~~~~~~~~~~~~~~~~
+ Artist(s): Deepu 
+ Song's name: Baby Kanipinchav 
+ Preview link: https://open.spotify.com/track/5jyXImaUzshRcUGPJ7S10R 
+ Album: Kannaya (Original Motion Picture Soundtrack)
+
+~~~~~~~~~~~~~~~~
+ Song number 5 
+~~~~~~~~~~~~~~~~
+ Artist(s): Guru Kiran 
+ Song's name: Munni Baby 
+ Preview link: https://open.spotify.com/track/1i6A30tp8iW0D5DY1x8h6l 
+ Album: Shivanagam (Original Motion Picture Soundtrack)
+
+~~~~~~~~~~~~~~~~
+ Song number 6 
+~~~~~~~~~~~~~~~~
+ Artist(s): Guru Kiran 
+ Song's name: Munni Baby 
+ Preview link: https://open.spotify.com/track/56Eqn8sh0zz4K1BGd3H2bP 
+ Album: Nagarahavu (Original Motion Picture Soundtrack)
+
+~~~~~~~~~~~~~~~~
+ Song number 7 
+~~~~~~~~~~~~~~~~
+ Artist(s): Tippu 
+ Song's name: O Baby 
+ Preview link: https://open.spotify.com/track/3OBRy4hR6g05BdIw6OLOlA 
+ Album: Ricky (Original Motion Picture Soundtrack)
+
+~~~~~~~~~~~~~~~~
+ Song number 8 
+~~~~~~~~~~~~~~~~
+ Artist(s): Shankar Mahadevan 
+ Song's name: Baby Aagodhu 
+ Preview link: https://open.spotify.com/track/3pjl74J6mOLhw4VaIvkFmk 
+ Album: Oopiri (Original Motion Picture Soundtrack)
+
+~~~~~~~~~~~~~~~~
+ Song number 9 
+~~~~~~~~~~~~~~~~
+ Artist(s): Shankar Mahadevan 
+ Song's name: Baby Odadhay 
+ Preview link: https://open.spotify.com/track/3jtM9wH2Ux00nkqaITGg2u 
+ Album: Thozha (Original Motion Picture Soundtrack)
+
+~~~~~~~~~~~~~~~~
+ Song number 10 
+~~~~~~~~~~~~~~~~
+ Artist(s): Guru Kiran 
+ Song's name: Munni Baby 
+ Preview link: https://open.spotify.com/track/5FJ1Or0W05x60vi6eTGAPp 
+ Album: Nagabharanam (Original Motion Picture Soundtrack)
+
+~~~~~~~~~~~~~~~~
+ Song number 11 
+~~~~~~~~~~~~~~~~
+ Artist(s): BISHNU MOHAN KABI 
+ Song's name: O Baby 
+ Preview link: https://open.spotify.com/track/3lXdnPNqozfFwOz8fDXjJH 
+ Album: Tu Je Sehi (Original Motion Picture Soundtrack)
+
+~~~~~~~~~~~~~~~~
+ Song number 12 
+~~~~~~~~~~~~~~~~
+ Artist(s): Benny Dayal 
+ Song's name: Bomb Figure Baby 
+ Preview link: https://open.spotify.com/track/4lZt4sdFVOCEIlnc7i69y9 
+ Album: Mohini (Original Motion Picture Soundtrack)
+
+~~~~~~~~~~~~~~~~
+ Song number 13 
+~~~~~~~~~~~~~~~~
+ Artist(s): Vivek - Mervin 
+ Song's name: Bomb Figure Baby 
+ Preview link: https://open.spotify.com/track/2VvMLhWMy6I2ob0mTzpDvb 
+ Album: Mohini (Original Motion Picture Soundtrack)
+
+~~~~~~~~~~~~~~~~
+ Song number 14 
+~~~~~~~~~~~~~~~~
+ Artist(s): Swarup Kakati 
+ Song's name: Baby I Love You 
+ Preview link: https://open.spotify.com/track/6u1He3w19odAtxQkXdxjFG 
+ Album: Baby I Love You
+
+~~~~~~~~~~~~~~~~
+ Song number 15 
+~~~~~~~~~~~~~~~~
+ Artist(s): Devalla Kiran 
+ Song's name: Baby I Love You - From "Baby I Love You" 
+ Preview link: https://open.spotify.com/track/20PbuNLCvj2L3WEf7yL4I2 
+ Album: Baby I Love You (From "Baby I Love You")
+
+~~~~~~~~~~~~~~~~
+ Song number 16 
+~~~~~~~~~~~~~~~~
+ Artist(s): Vedanth Bharadwaj 
+ Song's name: Baby Track (Kukkotti Kunaatti) 
+ Preview link: https://open.spotify.com/track/6mx1QpmbLZFENNzGGxTTc3 
+ Album: Aruvi (Original Motion Picture Soundtrack)
+
+~~~~~~~~~~~~~~~~
+ Song number 17 
+~~~~~~~~~~~~~~~~
+ Artist(s): Swati Sharma 
+ Song's name: Sexy Baby Girl 
+ Preview link: https://open.spotify.com/track/2Ov3OGUyfiaZjv5h0OnuZO 
+ Album: Tera Intezaar
+
+~~~~~~~~~~~~~~~~
+ Song number 18 
+~~~~~~~~~~~~~~~~
+ Artist(s): Mathichiyam Bala 
+ Song's name: Baby May Kya Karo 
+ Preview link: https://open.spotify.com/track/0dAAn1k1DOoqcTrz8V50JV 
+ Album: Visiri (Original Motion Picture Soundtrack)
+
+~~~~~~~~~~~~~~~~
+ Song number 19 
+~~~~~~~~~~~~~~~~
+ Artist(s): Vivek - Mervin 
+ Song's name: Run Baby Run - Theme 
+ Preview link: https://open.spotify.com/track/7sNH1q2oqQRXJZhBe7Ry2N 
+ Album: Dora (Telugu) [Original Motion Picture Soundtrack]
+
+~~~~~~~~~~~~~~~~
+ Song number 20 
+~~~~~~~~~~~~~~~~
+ Artist(s): Vivek - Mervin 
+ Song's name: Run Baby Run - Theme 
+ Preview link: https://open.spotify.com/track/5YLT0TPFhCbHZUYC4gd7bu 
+ Album: Dora (Original Motion Picture Soundtrack)
+
+~~~~~~~~~~~~~~~~END LIRI SPOTIFY REQUEST 1555981585~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~
+ Song number 1 
+~~~~~~~~~~~~~~~~
+ Artist(s): Backstreet Boys 
+ Song's name: I Want It That Way 
+ Preview link: https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6 
+ Album: The Hits--Chapter One
